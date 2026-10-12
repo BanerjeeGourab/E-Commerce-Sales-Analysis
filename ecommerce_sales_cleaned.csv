@@ -1,0 +1,1001 @@
+﻿order_id,order_date,product_name,category,region,customer_id,quantity,unit_price,status,sales_representative
+ORD-10001-2025-CA,2024-07-06 06:15:33,Router,Electronics,East,CUST-5792,3,1055,Shipped,Bob
+ORD-10002-2025-TX,2024-01-26 10:21:46,Printer,Electronics,Central,CUST-3288,5,452,Shipped,David
+ORD-10003-2025-TX,2024-04-28 02:58:03,Printer,Electronics,North,CUST-4539,2,1002,Pending,Alice
+ORD-10004-2025-TX,2024-11-11 16:02:13,External HDD,Peripherals,Central,CUST-8979,5,132,Shipped,Charlie
+ORD-10005-2025-TX,2024-09-14 04:51:42,SSD Drive,Accessories,West,CUST-9737,5,263,Shipped,David
+ORD-10006-2025-AZ,2024-08-30 13:49:35,Gaming Headset,Gaming,North,CUST-6090,5,114,Pending,Eve
+ORD-10007-2025-TX,2024-09-20 10:18:20,Monitor,Electronics,North,CUST-3083,3,809,Shipped,Frank
+ORD-10008-2025-AZ,2025-05-16 12:04:29,External HDD,Networking,West,CUST-1867,5,271,Cancelled,Bob
+ORD-10009-2025-CA,2024-11-01 15:32:05,SSD Drive,Networking,West,CUST-7873,4,233,Shipped,Alice
+ORD-10010-2025-TX,2024-12-23 20:07:57,Webcam,Peripherals,East,CUST-1905,2,29,Cancelled,Bob
+ORD-10011-2025-AZ,2025-05-20 18:37:09,Mouse,Peripherals,Central,CUST-5429,1,73,Shipped,Charlie
+ORD-10012-2025-AZ,2024-10-02 03:44:39,Printer,Electronics,West,CUST-2049,3,1481,Shipped,Alice
+ORD-10013-2025-CA,2024-05-30 00:58:20,Laptop,Electronics,Central,CUST-4444,1,1414,Cancelled,Bob
+ORD-10014-2025-TX,2024-01-07 16:54:49,Printer,Electronics,West,CUST-7310,2,1020,Shipped,Bob
+ORD-10015-2025-TX,2024-11-10 21:43:28,Mouse,Peripherals,East,CUST-2065,5,75,Shipped,Charlie
+ORD-10016-2025-CA,2024-09-16 19:35:16,External HDD,Storage,Central,CUST-6673,2,50,Shipped,Alice
+ORD-10017-2025-TX,2024-05-16 08:14:30,Router,Electronics,East,CUST-6035,3,1137,Pending,Alice
+ORD-10018-2025-TX,2024-09-12 04:49:02,Laptop,Electronics,North,CUST-3267,3,1256,Cancelled,Frank
+ORD-10019-2025-AZ,2024-06-10 14:30:17,Webcam,Peripherals,West,CUST-5242,4,24,Cancelled,Frank
+ORD-10020-2025-TX,2024-01-05 08:04:57,Router,Electronics,West,CUST-2678,1,1196,Pending,Bob
+ORD-10021-2025-AZ,2024-01-09 17:26:50,External HDD,Storage,West,CUST-2554,3,107,Shipped,Bob
+ORD-10022-2025-TX,2024-12-25 20:54:36,External HDD,Peripherals,West,CUST-8999,2,251,Pending,Alice
+ORD-10023-2025-TX,2024-06-09 12:23:57,Monitor,Electronics,South,CUST-9218,5,668,Shipped,Charlie
+ORD-10024-2025-CA,2025-02-02 15:06:32,Webcam,Peripherals,East,CUST-7809,3,72,Shipped,David
+ORD-10025-2025-CA,2024-04-21 15:40:51,Monitor,Electronics,West,CUST-2674,5,412,Shipped,Charlie
+ORD-10026-2025-CA,2025-02-19 07:01:56,Monitor,Electronics,South,CUST-4550,3,602,Cancelled,Frank
+ORD-10027-2025-AZ,2025-05-26 21:19:43,Router,Electronics,East,CUST-6248,3,629,Shipped,Bob
+ORD-10028-2025-CA,2025-02-28 14:28:30,Mouse,Peripherals,North,CUST-1017,3,69,Pending,Bob
+ORD-10029-2025-TX,2024-02-22 07:11:15,Mouse,Peripherals,North,CUST-5047,1,126,Shipped,Charlie
+ORD-10030-2025-CA,2024-11-03 10:44:33,Gaming Headset,Gaming,Central,CUST-6043,2,200,Shipped,Alice
+ORD-10031-2025-CA,2024-04-30 11:36:44,Monitor,Electronics,North,CUST-9594,5,900,Shipped,Charlie
+ORD-10032-2025-AZ,2025-01-17 07:10:40,External HDD,Storage,West,CUST-8187,4,190,Shipped,David
+ORD-10033-2025-CA,2024-05-08 23:23:08,Mouse,Peripherals,West,CUST-7822,4,140,Shipped,Alice
+ORD-10034-2025-CA,2024-08-31 05:14:41,Gaming Headset,Gaming,North,CUST-9293,4,217,Shipped,Charlie
+ORD-10035-2025-TX,2024-03-03 03:33:26,Mouse,Peripherals,East,CUST-4196,2,124,Pending,Frank
+ORD-10036-2025-CA,2024-06-04 12:37:38,Keyboard,Peripherals,Central,CUST-2087,2,46,Shipped,David
+ORD-10037-2025-TX,2024-07-29 14:34:56,Monitor,Electronics,South,CUST-4694,2,422,Shipped,David
+ORD-10038-2025-AZ,2025-03-12 00:36:36,Router,Electronics,Central,CUST-9598,4,1245,Shipped,David
+ORD-10039-2025-CA,2025-01-20 16:29:49,Keyboard,Peripherals,Central,CUST-4829,4,135,Cancelled,Eve
+ORD-10040-2025-CA,2024-03-14 16:54:22,Mouse,Peripherals,North,CUST-2655,5,40,Shipped,Alice
+ORD-10041-2025-AZ,2024-03-29 01:09:39,Gaming Headset,Gaming,East,CUST-7281,2,152,Shipped,Frank
+ORD-10042-2025-AZ,2024-07-26 12:12:21,Router,Electronics,South,CUST-6479,5,647,Shipped,Bob
+ORD-10043-2025-CA,2024-06-10 18:53:29,SSD Drive,Networking,West,CUST-6550,1,199,Shipped,Bob
+ORD-10044-2025-AZ,2024-01-11 12:46:31,Printer,Electronics,North,CUST-2833,5,742,Cancelled,Bob
+ORD-10045-2025-TX,2024-06-20 22:25:50,Keyboard,Peripherals,West,CUST-8462,4,44,Shipped,Frank
+ORD-10046-2025-AZ,2025-01-22 06:20:18,SSD Drive,Storage,South,CUST-1458,1,127,Shipped,David
+ORD-10047-2025-TX,2025-06-11 13:26:17,Laptop,Electronics,North,CUST-9770,3,818,Shipped,Alice
+ORD-10048-2025-AZ,2024-11-12 22:09:56,Monitor,Electronics,North,CUST-9429,1,1233,Shipped,Frank
+ORD-10049-2025-TX,2024-04-11 15:19:38,Keyboard,Peripherals,West,CUST-4553,2,43,Shipped,Eve
+ORD-10050-2025-TX,2024-10-10 20:45:07,Printer,Electronics,West,CUST-4344,2,496,Shipped,David
+ORD-10051-2025-TX,2024-08-24 08:48:07,Mouse,Peripherals,East,CUST-2332,2,92,Shipped,Frank
+ORD-10052-2025-TX,2024-08-14 15:49:33,Monitor,Electronics,West,CUST-9303,3,789,Shipped,Charlie
+ORD-10053-2025-TX,2024-06-02 15:45:33,Printer,Electronics,Central,CUST-2554,1,1337,Shipped,Eve
+ORD-10054-2025-AZ,2025-06-04 16:53:03,Laptop,Electronics,West,CUST-4937,5,1249,Shipped,Frank
+ORD-10055-2025-TX,2024-09-16 08:47:27,Monitor,Electronics,North,CUST-8765,2,1098,Shipped,Bob
+ORD-10056-2025-AZ,2024-01-07 13:45:15,Mouse,Peripherals,North,CUST-3422,3,109,Shipped,Alice
+ORD-10057-2025-AZ,2025-04-29 01:13:15,SSD Drive,Peripherals,West,CUST-6338,1,296,Pending,Charlie
+ORD-10058-2025-AZ,2024-12-19 19:14:52,Laptop,Electronics,North,CUST-4955,3,720,Pending,Frank
+ORD-10059-2025-AZ,2025-04-18 11:00:42,Gaming Headset,Gaming,West,CUST-8287,5,149,Pending,Eve
+ORD-10060-2025-TX,2024-03-09 15:50:47,Webcam,Peripherals,East,CUST-4238,4,116,Shipped,Eve
+ORD-10061-2025-TX,2025-02-12 09:12:46,Keyboard,Peripherals,North,CUST-7988,2,44,Shipped,Frank
+ORD-10062-2025-TX,2024-08-14 04:25:06,Webcam,Peripherals,West,CUST-4492,5,144,Cancelled,Charlie
+ORD-10063-2025-TX,2024-12-23 12:46:54,Webcam,Peripherals,North,CUST-1659,3,117,Cancelled,Bob
+ORD-10064-2025-CA,2024-06-05 12:01:28,Monitor,Electronics,North,CUST-1902,2,617,Shipped,Eve
+ORD-10065-2025-AZ,2025-03-24 17:11:33,External HDD,Storage,Central,CUST-1439,3,220,Cancelled,Alice
+ORD-10066-2025-CA,2024-08-21 21:54:57,Keyboard,Peripherals,South,CUST-3432,4,99,Pending,Frank
+ORD-10067-2025-TX,2024-03-03 01:04:46,SSD Drive,Peripherals,South,CUST-6487,1,144,Pending,Alice
+ORD-10068-2025-TX,2025-04-24 08:01:39,SSD Drive,Gaming,Central,CUST-9274,4,234,Pending,Bob
+ORD-10069-2025-TX,2024-07-24 11:10:24,Gaming Headset,Gaming,West,CUST-1798,1,135,Shipped,Eve
+ORD-10070-2025-CA,2024-06-23 03:18:50,Printer,Electronics,North,CUST-5827,5,767,Shipped,Frank
+ORD-10071-2025-TX,2024-05-07 07:18:41,Laptop,Electronics,South,CUST-1633,4,618,Shipped,Eve
+ORD-10072-2025-CA,2024-12-08 18:06:32,Gaming Headset,Gaming,Central,CUST-4422,4,139,Shipped,Charlie
+ORD-10073-2025-AZ,2025-01-04 09:03:47,Monitor,Electronics,East,CUST-4137,5,1014,Pending,Charlie
+ORD-10074-2025-CA,2024-01-15 16:57:22,Router,Electronics,Central,CUST-7307,2,433,Shipped,Charlie
+ORD-10075-2025-CA,2025-04-23 21:58:11,Printer,Electronics,West,CUST-9051,2,688,Pending,Eve
+ORD-10076-2025-TX,2024-09-07 13:31:49,Mouse,Peripherals,West,CUST-1295,2,133,Shipped,Alice
+ORD-10077-2025-CA,2025-03-08 21:48:14,Router,Electronics,East,CUST-5498,3,1252,Shipped,Charlie
+ORD-10078-2025-TX,2025-02-20 21:12:23,Printer,Electronics,North,CUST-7448,4,436,Shipped,Frank
+ORD-10079-2025-TX,2024-05-05 12:24:56,External HDD,Peripherals,South,CUST-4371,4,21,Shipped,Frank
+ORD-10080-2025-CA,2024-12-11 20:47:54,Gaming Headset,Gaming,South,CUST-3434,2,204,Cancelled,Eve
+ORD-10081-2025-AZ,2024-01-12 15:49:17,Monitor,Electronics,West,CUST-6860,1,1389,Shipped,David
+ORD-10082-2025-CA,2024-06-14 09:13:11,Keyboard,Peripherals,West,CUST-9767,2,30,Pending,David
+ORD-10083-2025-AZ,2024-12-09 00:28:14,External HDD,Electronics,West,CUST-3263,4,214,Shipped,Frank
+ORD-10084-2025-CA,2024-12-15 15:03:59,Webcam,Peripherals,West,CUST-8656,5,141,Cancelled,Alice
+ORD-10085-2025-CA,2025-02-22 13:51:39,Printer,Electronics,Central,CUST-8829,4,603,Shipped,David
+ORD-10086-2025-TX,2025-03-27 01:13:55,SSD Drive,Accessories,West,CUST-2502,2,138,Shipped,Alice
+ORD-10087-2025-CA,2024-03-08 02:11:41,Gaming Headset,Gaming,Central,CUST-3663,5,107,Cancelled,Frank
+ORD-10088-2025-CA,2024-08-21 20:57:24,External HDD,Networking,East,CUST-7074,5,223,Shipped,Frank
+ORD-10089-2025-TX,2025-02-27 01:03:30,Monitor,Electronics,South,CUST-9980,3,417,Cancelled,Bob
+ORD-10090-2025-TX,2024-12-02 05:38:02,Keyboard,Peripherals,East,CUST-8221,4,85,Cancelled,David
+ORD-10091-2025-AZ,2025-04-06 04:25:55,Printer,Electronics,East,CUST-7134,1,495,Shipped,Charlie
+ORD-10092-2025-CA,2025-03-16 01:42:41,Laptop,Electronics,Central,CUST-9203,2,814,Shipped,Alice
+ORD-10093-2025-CA,2025-02-13 13:39:55,Printer,Electronics,West,CUST-6037,2,1438,Pending,Charlie
+ORD-10094-2025-TX,2025-04-23 08:47:54,Mouse,Peripherals,Central,CUST-4003,2,62,Shipped,Eve
+ORD-10095-2025-AZ,2024-03-10 15:49:21,SSD Drive,Peripherals,North,CUST-4488,1,287,Shipped,David
+ORD-10096-2025-TX,2025-04-14 16:44:11,Mouse,Peripherals,Central,CUST-9949,1,82,Cancelled,Charlie
+ORD-10097-2025-TX,2024-06-29 18:05:30,Monitor,Electronics,Central,CUST-2159,5,712,Pending,Eve
+ORD-10098-2025-TX,2024-04-10 12:01:34,Webcam,Peripherals,South,CUST-1603,4,35,Shipped,Eve
+ORD-10099-2025-CA,2024-02-29 20:23:20,Mouse,Peripherals,East,CUST-8732,3,88,Shipped,Charlie
+ORD-10100-2025-AZ,2024-04-01 20:52:48,External HDD,Peripherals,East,CUST-2833,2,125,Cancelled,Frank
+ORD-10101-2025-CA,2024-10-01 15:35:53,Laptop,Electronics,Central,CUST-2583,5,646,Shipped,Alice
+ORD-10102-2025-CA,2024-09-29 17:32:34,Laptop,Electronics,South,CUST-3846,5,856,Shipped,Charlie
+ORD-10103-2025-CA,2024-04-08 04:07:09,External HDD,Electronics,South,CUST-3282,1,233,Cancelled,Alice
+ORD-10104-2025-AZ,2025-04-05 07:57:49,Webcam,Peripherals,Central,CUST-2940,4,68,Shipped,Charlie
+ORD-10105-2025-TX,2024-11-10 13:54:44,Keyboard,Peripherals,South,CUST-7467,1,120,Shipped,Bob
+ORD-10106-2025-TX,2025-03-14 17:56:24,Keyboard,Peripherals,Central,CUST-6868,1,110,Shipped,David
+ORD-10107-2025-TX,2024-05-29 05:05:00,Monitor,Electronics,Central,CUST-2372,3,1329,Pending,Alice
+ORD-10108-2025-TX,2024-10-12 11:16:35,Monitor,Electronics,North,CUST-9625,3,1083,Shipped,Eve
+ORD-10109-2025-TX,2024-03-05 16:30:11,Router,Electronics,South,CUST-6019,2,576,Shipped,David
+ORD-10110-2025-CA,2024-05-29 23:29:34,Monitor,Electronics,East,CUST-8011,3,1312,Shipped,Charlie
+ORD-10111-2025-CA,2024-02-21 14:55:51,Printer,Electronics,South,CUST-9167,5,553,Shipped,Frank
+ORD-10112-2025-CA,2025-03-19 20:53:40,Mouse,Peripherals,North,CUST-8611,3,34,Shipped,Bob
+ORD-10113-2025-CA,2024-03-15 21:12:15,Router,Electronics,South,CUST-3902,5,533,Pending,Bob
+ORD-10114-2025-AZ,2024-04-05 00:36:10,Webcam,Peripherals,East,CUST-2560,2,79,Pending,Frank
+ORD-10115-2025-TX,2025-03-30 19:32:29,Mouse,Peripherals,Central,CUST-6260,1,147,Shipped,David
+ORD-10116-2025-CA,2025-03-31 23:59:09,SSD Drive,Accessories,Central,CUST-4461,2,244,Shipped,Eve
+ORD-10117-2025-AZ,2024-11-07 09:47:20,Printer,Electronics,North,CUST-4187,1,1016,Cancelled,David
+ORD-10118-2025-CA,2025-02-27 12:39:46,Printer,Electronics,South,CUST-7888,4,887,Shipped,Charlie
+ORD-10119-2025-CA,2024-02-16 07:21:23,Gaming Headset,Gaming,West,CUST-2768,2,196,Shipped,Eve
+ORD-10120-2025-TX,2025-05-03 04:17:58,Router,Electronics,West,CUST-9861,4,1231,Pending,Eve
+ORD-10121-2025-TX,2024-03-21 18:43:02,Router,Electronics,South,CUST-2843,2,1433,Shipped,Charlie
+ORD-10122-2025-CA,2024-08-22 11:04:59,Gaming Headset,Gaming,Central,CUST-5196,2,104,Shipped,David
+ORD-10123-2025-TX,2024-08-22 07:52:51,Gaming Headset,Gaming,South,CUST-2602,4,165,Cancelled,Bob
+ORD-10124-2025-TX,2024-06-06 21:27:59,Router,Electronics,East,CUST-3426,3,514,Shipped,Bob
+ORD-10125-2025-AZ,2025-05-09 21:18:37,Laptop,Electronics,East,CUST-7844,4,514,Shipped,Alice
+ORD-10126-2025-AZ,2025-04-06 10:05:12,Webcam,Peripherals,West,CUST-5332,5,116,Shipped,Charlie
+ORD-10127-2025-AZ,2024-09-12 19:58:22,Webcam,Peripherals,North,CUST-6047,2,29,Shipped,Eve
+ORD-10128-2025-AZ,2024-09-13 23:39:51,Webcam,Peripherals,West,CUST-6581,1,52,Shipped,Eve
+ORD-10129-2025-TX,2025-06-16 15:53:56,Webcam,Peripherals,South,CUST-7855,5,60,Cancelled,Charlie
+ORD-10130-2025-TX,2025-02-27 02:52:50,Gaming Headset,Gaming,West,CUST-2769,1,215,Shipped,Charlie
+ORD-10131-2025-TX,2024-11-04 14:03:19,Printer,Electronics,East,CUST-3841,3,873,Shipped,Charlie
+ORD-10132-2025-CA,2025-01-28 13:40:17,Gaming Headset,Gaming,South,CUST-7138,4,177,Shipped,David
+ORD-10133-2025-AZ,2025-05-25 01:29:45,Laptop,Electronics,Central,CUST-7055,5,805,Cancelled,Alice
+ORD-10134-2025-TX,2024-09-13 22:46:52,Router,Electronics,West,CUST-5830,4,792,Shipped,Alice
+ORD-10135-2025-CA,2024-10-30 21:59:11,External HDD,Storage,North,CUST-1903,2,149,Shipped,Charlie
+ORD-10136-2025-TX,2024-02-05 15:09:47,Monitor,Electronics,Central,CUST-8502,4,1496,Shipped,Frank
+ORD-10137-2025-AZ,2024-10-26 00:41:11,Monitor,Electronics,East,CUST-7176,2,1265,Cancelled,Bob
+ORD-10138-2025-TX,2025-05-07 16:11:49,Gaming Headset,Gaming,Central,CUST-6567,1,105,Shipped,Frank
+ORD-10139-2025-AZ,2024-04-17 08:15:02,SSD Drive,Accessories,Central,CUST-4342,5,87,Pending,Frank
+ORD-10140-2025-TX,2024-10-04 13:55:36,SSD Drive,Gaming,East,CUST-1853,1,269,Shipped,Eve
+ORD-10141-2025-CA,2024-09-25 16:48:48,SSD Drive,Networking,North,CUST-6930,5,123,Pending,Eve
+ORD-10142-2025-AZ,2024-12-05 00:09:24,Webcam,Peripherals,Central,CUST-7587,4,135,Shipped,Bob
+ORD-10143-2025-TX,2025-05-05 21:34:46,Gaming Headset,Gaming,East,CUST-8220,1,128,Cancelled,Alice
+ORD-10144-2025-AZ,2024-04-18 18:58:17,Laptop,Electronics,North,CUST-5547,3,1462,Shipped,Charlie
+ORD-10145-2025-CA,2024-07-13 04:19:23,Printer,Electronics,North,CUST-8197,5,1010,Shipped,Frank
+ORD-10146-2025-CA,2025-01-05 00:39:02,Monitor,Electronics,Central,CUST-7133,2,976,Shipped,Alice
+ORD-10147-2025-TX,2024-11-03 01:37:43,External HDD,Storage,West,CUST-6895,5,206,Cancelled,Bob
+ORD-10148-2025-AZ,2024-04-11 20:25:00,Router,Electronics,South,CUST-3156,2,1447,Shipped,Eve
+ORD-10149-2025-TX,2024-04-25 12:01:59,Keyboard,Peripherals,East,CUST-2776,1,63,Shipped,David
+ORD-10150-2025-AZ,2024-04-26 12:28:58,SSD Drive,Networking,Central,CUST-8813,5,137,Cancelled,Frank
+ORD-10151-2025-CA,2025-06-26 21:27:21,Keyboard,Peripherals,West,CUST-9373,1,41,Pending,Charlie
+ORD-10152-2025-CA,2025-03-10 03:58:33,Printer,Electronics,Central,CUST-1872,1,1067,Cancelled,Frank
+ORD-10153-2025-CA,2024-11-04 11:21:56,Keyboard,Peripherals,Central,CUST-6055,3,112,Shipped,Bob
+ORD-10154-2025-AZ,2024-08-23 03:50:38,Mouse,Peripherals,East,CUST-9728,4,56,Shipped,Frank
+ORD-10155-2025-TX,2025-01-09 20:20:11,SSD Drive,Gaming,South,CUST-8206,3,291,Pending,Bob
+ORD-10156-2025-TX,2024-08-31 20:02:06,Monitor,Electronics,North,CUST-6060,1,1417,Shipped,Eve
+ORD-10157-2025-TX,2024-09-24 20:46:02,External HDD,Accessories,Central,CUST-1725,2,110,Cancelled,Bob
+ORD-10158-2025-TX,2024-08-08 16:05:33,Router,Electronics,West,CUST-5452,5,1233,Cancelled,Alice
+ORD-10159-2025-AZ,2024-09-11 04:07:13,Keyboard,Peripherals,North,CUST-3650,5,149,Shipped,Bob
+ORD-10160-2025-TX,2024-12-08 14:42:50,Gaming Headset,Gaming,South,CUST-7199,2,116,Pending,Eve
+ORD-10161-2025-CA,2025-03-21 06:41:14,Laptop,Electronics,West,CUST-4027,3,1427,Pending,Charlie
+ORD-10162-2025-TX,2025-04-12 05:32:08,Mouse,Peripherals,South,CUST-7942,4,65,Shipped,Charlie
+ORD-10163-2025-TX,2025-02-09 09:15:00,SSD Drive,Electronics,East,CUST-6248,2,185,Pending,Charlie
+ORD-10164-2025-CA,2024-05-10 00:36:31,Webcam,Peripherals,West,CUST-2110,5,36,Shipped,Alice
+ORD-10165-2025-CA,2024-04-19 05:09:37,Monitor,Electronics,Central,CUST-4768,4,560,Shipped,Bob
+ORD-10166-2025-TX,2024-06-14 04:44:38,External HDD,Gaming,North,CUST-6092,3,110,Shipped,Frank
+ORD-10167-2025-CA,2024-08-01 06:56:11,Webcam,Peripherals,North,CUST-3638,1,111,Pending,Eve
+ORD-10168-2025-CA,2024-04-02 14:09:20,Printer,Electronics,East,CUST-7481,3,1165,Cancelled,Eve
+ORD-10169-2025-TX,2024-02-17 16:45:39,Webcam,Peripherals,South,CUST-7575,5,99,Shipped,Frank
+ORD-10170-2025-AZ,2024-10-06 11:54:48,Laptop,Electronics,West,CUST-8190,2,1158,Cancelled,Frank
+ORD-10171-2025-AZ,2024-09-02 15:20:15,Router,Electronics,South,CUST-5745,3,1320,Cancelled,Eve
+ORD-10172-2025-TX,2025-06-25 00:58:09,SSD Drive,Gaming,East,CUST-3752,4,183,Shipped,Alice
+ORD-10173-2025-TX,2024-09-09 22:56:54,SSD Drive,Accessories,West,CUST-8914,3,99,Pending,Eve
+ORD-10174-2025-CA,2024-09-18 14:05:33,Keyboard,Peripherals,West,CUST-7879,2,107,Pending,Charlie
+ORD-10175-2025-AZ,2024-04-14 06:54:51,SSD Drive,Peripherals,North,CUST-8769,2,139,Shipped,Charlie
+ORD-10176-2025-TX,2024-08-19 23:41:28,Keyboard,Peripherals,West,CUST-9272,2,49,Shipped,Bob
+ORD-10177-2025-AZ,2024-10-10 08:57:57,SSD Drive,Networking,East,CUST-2287,4,182,Shipped,Alice
+ORD-10178-2025-AZ,2024-10-07 15:35:03,SSD Drive,Accessories,East,CUST-4464,3,33,Shipped,Eve
+ORD-10179-2025-CA,2025-05-19 06:44:51,Printer,Electronics,West,CUST-6268,1,1033,Shipped,Bob
+ORD-10180-2025-AZ,2025-05-09 07:58:26,Printer,Electronics,East,CUST-1635,5,860,Shipped,Bob
+ORD-10181-2025-CA,2024-08-30 09:34:05,SSD Drive,Gaming,North,CUST-1776,1,290,Pending,Alice
+ORD-10182-2025-AZ,2024-04-07 00:24:18,External HDD,Accessories,Central,CUST-3770,2,73,Cancelled,Alice
+ORD-10183-2025-TX,2024-03-13 15:30:33,Monitor,Electronics,South,CUST-5101,5,945,Shipped,Eve
+ORD-10184-2025-TX,2024-10-15 15:37:46,Laptop,Electronics,Central,CUST-3435,1,1289,Shipped,Bob
+ORD-10185-2025-AZ,2025-05-08 07:12:09,Keyboard,Peripherals,North,CUST-2814,1,107,Shipped,Bob
+ORD-10186-2025-AZ,2025-03-27 10:33:44,Printer,Electronics,West,CUST-9681,4,1054,Pending,Frank
+ORD-10187-2025-CA,2025-02-21 23:28:57,SSD Drive,Storage,South,CUST-7634,1,217,Cancelled,Alice
+ORD-10188-2025-AZ,2025-06-05 21:16:19,Keyboard,Peripherals,East,CUST-9664,3,52,Pending,Charlie
+ORD-10189-2025-TX,2025-03-28 12:26:41,External HDD,Electronics,East,CUST-9048,4,28,Shipped,Charlie
+ORD-10190-2025-TX,2024-02-25 23:39:45,Webcam,Peripherals,East,CUST-8801,1,117,Shipped,Frank
+ORD-10191-2025-AZ,2025-02-17 01:43:36,External HDD,Electronics,South,CUST-1323,3,112,Shipped,Bob
+ORD-10192-2025-CA,2024-10-20 06:00:11,SSD Drive,Gaming,East,CUST-7650,5,277,Shipped,Alice
+ORD-10193-2025-AZ,2024-02-13 09:58:36,Monitor,Electronics,West,CUST-6927,5,438,Shipped,Alice
+ORD-10194-2025-TX,2024-12-25 04:06:34,Mouse,Peripherals,East,CUST-5200,4,124,Shipped,Bob
+ORD-10195-2025-CA,2024-12-18 07:53:13,Keyboard,Peripherals,East,CUST-8740,3,120,Shipped,David
+ORD-10196-2025-AZ,2024-10-07 20:23:21,Monitor,Electronics,South,CUST-3943,5,561,Cancelled,Charlie
+ORD-10197-2025-TX,2025-06-22 05:05:29,Router,Electronics,West,CUST-3086,2,1219,Shipped,Bob
+ORD-10198-2025-AZ,2025-05-16 01:29:29,Keyboard,Peripherals,North,CUST-7437,3,93,Shipped,Alice
+ORD-10199-2025-AZ,2024-01-07 01:29:14,Gaming Headset,Gaming,Central,CUST-9719,3,211,Shipped,Eve
+ORD-10200-2025-CA,2025-03-23 06:52:17,SSD Drive,Storage,North,CUST-1841,1,78,Cancelled,Charlie
+ORD-10201-2025-TX,2024-02-07 08:56:32,Monitor,Electronics,Central,CUST-5780,2,698,Pending,Eve
+ORD-10202-2025-AZ,2025-01-28 18:38:46,Router,Electronics,West,CUST-8606,4,1013,Shipped,Charlie
+ORD-10203-2025-CA,2025-06-07 20:37:20,Keyboard,Peripherals,South,CUST-4988,4,27,Pending,Bob
+ORD-10204-2025-CA,2024-01-06 19:05:02,Webcam,Peripherals,East,CUST-8547,5,57,Shipped,Bob
+ORD-10205-2025-CA,2024-04-04 14:19:48,Router,Electronics,East,CUST-4683,2,700,Cancelled,Charlie
+ORD-10206-2025-CA,2024-11-05 01:25:17,External HDD,Networking,South,CUST-9673,5,78,Pending,Bob
+ORD-10207-2025-AZ,2024-01-28 09:18:36,SSD Drive,Electronics,South,CUST-3698,1,189,Shipped,Bob
+ORD-10208-2025-AZ,2024-02-21 00:25:28,Gaming Headset,Gaming,East,CUST-2495,1,88,Shipped,Eve
+ORD-10209-2025-TX,2025-01-08 14:12:13,External HDD,Networking,West,CUST-3256,2,193,Pending,Eve
+ORD-10210-2025-AZ,2025-02-06 05:12:30,SSD Drive,Storage,South,CUST-7112,1,292,Shipped,Eve
+ORD-10211-2025-TX,2024-06-27 02:06:31,Monitor,Electronics,Central,CUST-1858,5,581,Cancelled,Eve
+ORD-10212-2025-CA,2024-07-20 12:40:45,Monitor,Electronics,East,CUST-5568,2,567,Shipped,David
+ORD-10213-2025-AZ,2024-08-18 02:06:18,Monitor,Electronics,East,CUST-1932,3,471,Pending,Bob
+ORD-10214-2025-CA,2025-05-10 12:00:11,Router,Electronics,East,CUST-1140,2,1360,Cancelled,Eve
+ORD-10215-2025-CA,2025-01-09 17:11:32,Router,Electronics,Central,CUST-7632,3,1441,Shipped,Bob
+ORD-10216-2025-TX,2024-01-25 17:57:06,Mouse,Peripherals,North,CUST-6794,5,109,Shipped,Charlie
+ORD-10217-2025-TX,2025-02-14 18:50:11,External HDD,Accessories,North,CUST-1672,5,127,Pending,Bob
+ORD-10218-2025-CA,2025-05-05 03:37:05,Mouse,Peripherals,West,CUST-9925,5,65,Cancelled,David
+ORD-10219-2025-CA,2024-05-05 09:22:34,Router,Electronics,West,CUST-2231,1,1359,Pending,Frank
+ORD-10220-2025-AZ,2025-03-08 14:04:53,Mouse,Peripherals,West,CUST-6737,5,36,Shipped,Frank
+ORD-10221-2025-TX,2024-03-24 09:00:05,Mouse,Peripherals,Central,CUST-4293,4,50,Pending,Alice
+ORD-10222-2025-CA,2024-04-06 19:54:58,External HDD,Electronics,Central,CUST-4372,3,254,Shipped,Frank
+ORD-10223-2025-AZ,2024-01-02 05:52:19,Monitor,Electronics,North,CUST-6359,1,581,Pending,Charlie
+ORD-10224-2025-CA,2025-06-08 18:27:54,External HDD,Networking,West,CUST-7598,1,174,Shipped,Charlie
+ORD-10225-2025-CA,2025-03-18 04:06:06,External HDD,Electronics,North,CUST-5070,5,163,Shipped,Bob
+ORD-10226-2025-CA,2024-04-21 23:05:38,SSD Drive,Storage,South,CUST-7281,2,23,Pending,Frank
+ORD-10227-2025-AZ,2025-03-02 12:47:06,Laptop,Electronics,North,CUST-9327,3,810,Pending,Eve
+ORD-10228-2025-AZ,2024-03-26 04:52:29,Laptop,Electronics,Central,CUST-9933,1,1153,Shipped,Frank
+ORD-10229-2025-CA,2025-03-07 05:26:46,Laptop,Electronics,North,CUST-5639,3,594,Pending,David
+ORD-10230-2025-CA,2024-06-18 01:45:30,Printer,Electronics,West,CUST-4096,1,1076,Shipped,Bob
+ORD-10231-2025-TX,2024-07-20 21:45:10,Webcam,Peripherals,Central,CUST-1134,5,101,Shipped,Eve
+ORD-10232-2025-TX,2024-10-24 14:56:55,Laptop,Electronics,West,CUST-1234,4,988,Cancelled,Frank
+ORD-10233-2025-TX,2024-04-24 20:08:02,Gaming Headset,Gaming,East,CUST-7760,3,133,Shipped,Charlie
+ORD-10234-2025-AZ,2024-02-18 05:54:18,Gaming Headset,Gaming,North,CUST-9660,5,221,Cancelled,Charlie
+ORD-10235-2025-TX,2025-04-10 04:30:56,External HDD,Electronics,East,CUST-6449,1,186,Cancelled,Alice
+ORD-10236-2025-CA,2025-02-26 22:49:53,Gaming Headset,Gaming,Central,CUST-6354,4,195,Shipped,Bob
+ORD-10237-2025-AZ,2025-01-02 19:47:54,Keyboard,Peripherals,Central,CUST-8578,2,58,Shipped,Eve
+ORD-10238-2025-TX,2024-11-01 04:23:24,SSD Drive,Accessories,West,CUST-9794,2,117,Shipped,Frank
+ORD-10239-2025-TX,2024-03-17 03:45:45,Router,Electronics,Central,CUST-7907,5,544,Shipped,Frank
+ORD-10240-2025-CA,2024-01-13 20:42:13,Router,Electronics,North,CUST-7063,1,1013,Pending,Charlie
+ORD-10241-2025-CA,2024-08-26 05:08:06,Printer,Electronics,East,CUST-2720,2,1412,Shipped,David
+ORD-10242-2025-AZ,2024-06-26 16:01:53,Monitor,Electronics,North,CUST-8982,2,1483,Shipped,Alice
+ORD-10243-2025-AZ,2024-04-28 07:53:57,Webcam,Peripherals,South,CUST-1245,1,136,Shipped,Bob
+ORD-10244-2025-CA,2024-05-06 10:41:35,Keyboard,Peripherals,South,CUST-8348,3,113,Shipped,Frank
+ORD-10245-2025-TX,2025-01-16 16:16:01,SSD Drive,Accessories,South,CUST-9335,5,168,Shipped,Bob
+ORD-10246-2025-TX,2024-05-27 21:07:17,Monitor,Electronics,East,CUST-3411,2,401,Shipped,Charlie
+ORD-10247-2025-AZ,2024-01-20 15:24:35,Printer,Electronics,Central,CUST-1450,3,799,Shipped,David
+ORD-10248-2025-TX,2024-01-23 10:34:03,External HDD,Peripherals,North,CUST-1895,5,142,Shipped,Bob
+ORD-10249-2025-CA,2025-06-16 14:19:41,Laptop,Electronics,South,CUST-6064,4,801,Shipped,Eve
+ORD-10250-2025-AZ,2024-09-17 09:24:31,Monitor,Electronics,Central,CUST-8461,5,520,Shipped,Eve
+ORD-10251-2025-CA,2025-02-26 17:39:57,SSD Drive,Gaming,Central,CUST-7086,1,98,Pending,Eve
+ORD-10252-2025-CA,2024-11-17 15:38:07,Printer,Electronics,North,CUST-1507,2,1050,Shipped,Eve
+ORD-10253-2025-AZ,2025-01-14 21:20:22,SSD Drive,Gaming,North,CUST-1994,5,64,Shipped,David
+ORD-10254-2025-CA,2024-01-21 00:09:25,Gaming Headset,Gaming,Central,CUST-2781,2,129,Pending,Charlie
+ORD-10255-2025-TX,2025-05-22 05:18:00,Webcam,Peripherals,East,CUST-6330,2,101,Shipped,David
+ORD-10256-2025-AZ,2024-07-05 13:04:00,SSD Drive,Accessories,Central,CUST-6872,3,177,Shipped,David
+ORD-10257-2025-TX,2024-06-13 21:17:18,Monitor,Electronics,East,CUST-2757,1,1284,Shipped,Frank
+ORD-10258-2025-CA,2025-03-03 04:44:47,Printer,Electronics,South,CUST-8014,1,1442,Shipped,Bob
+ORD-10259-2025-CA,2025-05-24 09:35:29,Gaming Headset,Gaming,West,CUST-7594,5,120,Shipped,Bob
+ORD-10260-2025-TX,2024-05-04 23:57:32,Printer,Electronics,North,CUST-9745,4,731,Pending,Bob
+ORD-10261-2025-CA,2024-07-10 05:34:57,Printer,Electronics,Central,CUST-7673,1,830,Cancelled,Frank
+ORD-10262-2025-CA,2025-02-25 18:29:51,Gaming Headset,Gaming,West,CUST-1587,5,126,Shipped,Frank
+ORD-10263-2025-AZ,2025-05-26 06:15:18,Keyboard,Peripherals,East,CUST-5481,4,114,Pending,David
+ORD-10264-2025-CA,2024-06-10 20:21:45,Router,Electronics,Central,CUST-2185,5,1154,Shipped,Frank
+ORD-10265-2025-CA,2025-01-12 11:22:58,Monitor,Electronics,North,CUST-4771,4,548,Shipped,David
+ORD-10266-2025-TX,2025-01-14 18:07:10,External HDD,Peripherals,South,CUST-2923,2,104,Shipped,Alice
+ORD-10267-2025-CA,2025-05-21 20:53:17,Printer,Electronics,Central,CUST-3113,1,790,Shipped,Bob
+ORD-10268-2025-CA,2024-12-08 09:25:55,SSD Drive,Gaming,Central,CUST-3279,3,64,Pending,David
+ORD-10269-2025-AZ,2024-11-18 09:00:50,Router,Electronics,Central,CUST-6375,3,1443,Shipped,Charlie
+ORD-10270-2025-CA,2024-05-22 10:07:41,Gaming Headset,Gaming,South,CUST-2222,3,123,Pending,Charlie
+ORD-10271-2025-CA,2024-07-08 02:36:50,Printer,Electronics,South,CUST-6506,5,727,Shipped,David
+ORD-10272-2025-CA,2025-05-23 17:20:58,Gaming Headset,Gaming,East,CUST-3908,5,147,Shipped,Eve
+ORD-10273-2025-AZ,2024-05-28 21:51:08,Monitor,Electronics,Central,CUST-9984,2,710,Shipped,David
+ORD-10274-2025-AZ,2024-10-28 19:31:28,Keyboard,Peripherals,West,CUST-7654,4,68,Shipped,Eve
+ORD-10275-2025-CA,2024-06-03 04:40:09,SSD Drive,Networking,West,CUST-1917,5,29,Shipped,David
+ORD-10276-2025-TX,2024-03-14 01:50:36,Gaming Headset,Gaming,Central,CUST-5908,5,212,Cancelled,Eve
+ORD-10277-2025-TX,2024-03-11 18:05:41,External HDD,Storage,East,CUST-8632,2,219,Shipped,Alice
+ORD-10278-2025-CA,2025-03-02 03:53:13,Monitor,Electronics,West,CUST-7205,5,1080,Pending,Charlie
+ORD-10279-2025-AZ,2024-03-09 17:14:11,Monitor,Electronics,South,CUST-9072,4,598,Shipped,Eve
+ORD-10280-2025-AZ,2024-06-10 05:14:32,Laptop,Electronics,North,CUST-5154,5,1415,Shipped,Alice
+ORD-10281-2025-TX,2024-07-26 14:28:24,Keyboard,Peripherals,West,CUST-5875,5,42,Pending,David
+ORD-10282-2025-CA,2024-02-22 17:45:55,External HDD,Peripherals,Central,CUST-9465,5,202,Cancelled,Frank
+ORD-10283-2025-TX,2025-06-15 09:43:58,Monitor,Electronics,East,CUST-9349,5,642,Shipped,David
+ORD-10284-2025-CA,2025-04-29 07:07:53,Monitor,Electronics,West,CUST-7634,1,1004,Cancelled,Charlie
+ORD-10285-2025-CA,2025-06-23 00:39:23,Mouse,Peripherals,South,CUST-7347,5,94,Cancelled,Bob
+ORD-10286-2025-AZ,2024-12-27 09:19:53,Printer,Electronics,South,CUST-8575,3,522,Cancelled,Frank
+ORD-10287-2025-AZ,2024-12-17 07:28:21,Printer,Electronics,South,CUST-1223,1,1069,Cancelled,Charlie
+ORD-10288-2025-AZ,2024-03-01 21:32:04,Router,Electronics,West,CUST-1665,4,1299,Pending,Bob
+ORD-10289-2025-TX,2024-07-24 10:11:27,Monitor,Electronics,East,CUST-1224,3,808,Shipped,Alice
+ORD-10290-2025-AZ,2024-03-10 14:23:43,Monitor,Electronics,West,CUST-1591,2,757,Shipped,Eve
+ORD-10291-2025-AZ,2024-09-10 21:41:08,Router,Electronics,East,CUST-3828,5,520,Pending,Charlie
+ORD-10292-2025-CA,2024-02-14 02:46:58,Monitor,Electronics,West,CUST-9705,3,894,Pending,Bob
+ORD-10293-2025-CA,2024-03-09 08:50:53,External HDD,Networking,North,CUST-1852,5,89,Shipped,Charlie
+ORD-10294-2025-CA,2025-04-28 14:48:24,Monitor,Electronics,Central,CUST-8755,4,1434,Shipped,Charlie
+ORD-10295-2025-CA,2025-03-05 11:33:41,Printer,Electronics,South,CUST-4997,4,1390,Shipped,Frank
+ORD-10296-2025-AZ,2024-05-31 18:10:15,External HDD,Electronics,Central,CUST-5537,3,263,Shipped,Charlie
+ORD-10297-2025-CA,2024-12-30 19:51:23,Printer,Electronics,North,CUST-9669,3,1383,Shipped,David
+ORD-10298-2025-TX,2024-10-21 05:58:54,Monitor,Electronics,Central,CUST-5685,1,780,Cancelled,Charlie
+ORD-10299-2025-CA,2024-01-02 14:02:51,SSD Drive,Storage,South,CUST-6272,4,149,Shipped,Charlie
+ORD-10300-2025-AZ,2024-08-07 00:12:25,Printer,Electronics,West,CUST-1560,4,923,Shipped,David
+ORD-10301-2025-AZ,2024-06-09 20:24:39,Mouse,Peripherals,East,CUST-8351,5,28,Pending,David
+ORD-10302-2025-CA,2024-05-24 00:01:30,Gaming Headset,Gaming,Central,CUST-6752,5,188,Cancelled,Charlie
+ORD-10303-2025-AZ,2024-05-23 00:28:14,Monitor,Electronics,North,CUST-2697,1,992,Shipped,Alice
+ORD-10304-2025-CA,2025-05-12 04:50:42,Webcam,Peripherals,North,CUST-2125,5,94,Shipped,Eve
+ORD-10305-2025-CA,2024-07-12 12:50:49,Gaming Headset,Gaming,West,CUST-7051,4,96,Shipped,Bob
+ORD-10306-2025-CA,2024-02-11 18:25:46,Monitor,Electronics,North,CUST-4155,2,1336,Pending,David
+ORD-10307-2025-TX,2024-06-24 16:44:00,Mouse,Peripherals,Central,CUST-8231,1,37,Pending,Alice
+ORD-10308-2025-CA,2024-06-19 23:16:16,Gaming Headset,Gaming,West,CUST-6602,2,92,Pending,Alice
+ORD-10309-2025-CA,2025-02-12 08:36:37,SSD Drive,Gaming,South,CUST-6901,3,206,Shipped,Charlie
+ORD-10310-2025-CA,2025-06-27 02:49:41,Monitor,Electronics,East,CUST-9287,3,1449,Shipped,Alice
+ORD-10311-2025-CA,2025-01-10 10:38:59,Webcam,Peripherals,North,CUST-8827,1,56,Shipped,Eve
+ORD-10312-2025-TX,2024-02-24 02:11:19,Webcam,Peripherals,Central,CUST-4476,4,108,Cancelled,David
+ORD-10313-2025-CA,2025-01-10 05:15:05,Webcam,Peripherals,West,CUST-3144,3,128,Shipped,Charlie
+ORD-10314-2025-TX,2024-06-07 01:34:51,Gaming Headset,Gaming,East,CUST-5149,1,144,Pending,David
+ORD-10315-2025-CA,2024-01-18 04:28:44,Keyboard,Peripherals,West,CUST-5968,1,127,Pending,David
+ORD-10316-2025-TX,2025-04-18 15:51:52,Monitor,Electronics,East,CUST-9585,5,514,Shipped,Frank
+ORD-10317-2025-TX,2025-06-12 16:19:47,Monitor,Electronics,North,CUST-1894,3,899,Shipped,Bob
+ORD-10318-2025-AZ,2025-01-09 16:11:57,External HDD,Gaming,East,CUST-4547,3,185,Shipped,Alice
+ORD-10319-2025-AZ,2024-12-13 00:25:27,Monitor,Electronics,Central,CUST-5661,3,1066,Shipped,David
+ORD-10320-2025-TX,2025-04-17 10:47:59,SSD Drive,Electronics,East,CUST-5053,4,262,Cancelled,Frank
+ORD-10321-2025-AZ,2024-02-04 00:37:04,Router,Electronics,South,CUST-3579,2,880,Shipped,Eve
+ORD-10322-2025-TX,2025-04-16 03:01:07,Monitor,Electronics,West,CUST-2280,4,669,Pending,Frank
+ORD-10323-2025-CA,2024-05-13 04:14:31,Gaming Headset,Gaming,North,CUST-3168,2,107,Cancelled,Charlie
+ORD-10324-2025-AZ,2024-12-04 13:48:00,Router,Electronics,Central,CUST-5709,5,981,Shipped,David
+ORD-10325-2025-TX,2025-02-05 22:15:33,Mouse,Peripherals,South,CUST-5244,4,136,Shipped,Charlie
+ORD-10326-2025-AZ,2025-06-24 12:21:32,Monitor,Electronics,South,CUST-2450,3,1340,Shipped,Bob
+ORD-10327-2025-TX,2024-01-20 11:20:44,SSD Drive,Electronics,Central,CUST-3509,4,26,Shipped,Alice
+ORD-10328-2025-AZ,2024-08-15 12:55:30,Mouse,Peripherals,South,CUST-4799,2,130,Cancelled,Eve
+ORD-10329-2025-CA,2025-05-18 02:51:12,Keyboard,Peripherals,South,CUST-6224,3,139,Shipped,Frank
+ORD-10330-2025-CA,2024-11-10 06:50:31,Keyboard,Peripherals,North,CUST-7712,1,35,Shipped,David
+ORD-10331-2025-TX,2025-02-15 06:07:41,Printer,Electronics,Central,CUST-7143,3,1380,Cancelled,Alice
+ORD-10332-2025-AZ,2025-03-14 18:44:57,Laptop,Electronics,South,CUST-9907,2,798,Pending,Frank
+ORD-10333-2025-TX,2025-06-18 05:35:09,Mouse,Peripherals,Central,CUST-3698,4,111,Cancelled,Charlie
+ORD-10334-2025-AZ,2024-03-07 14:27:35,Gaming Headset,Gaming,Central,CUST-8546,4,233,Shipped,David
+ORD-10335-2025-TX,2025-05-29 13:35:27,Laptop,Electronics,North,CUST-1764,1,920,Shipped,Charlie
+ORD-10336-2025-CA,2024-08-24 06:02:17,Laptop,Electronics,East,CUST-8066,3,1151,Shipped,Bob
+ORD-10337-2025-TX,2024-09-21 21:02:36,Webcam,Peripherals,East,CUST-9726,1,144,Shipped,Alice
+ORD-10338-2025-CA,2024-03-13 11:13:03,Gaming Headset,Gaming,Central,CUST-2942,3,157,Shipped,Alice
+ORD-10339-2025-AZ,2025-05-28 18:23:50,Monitor,Electronics,Central,CUST-8015,2,541,Shipped,Frank
+ORD-10340-2025-TX,2025-01-23 05:36:08,Printer,Electronics,South,CUST-8221,4,1449,Pending,David
+ORD-10341-2025-CA,2024-06-02 04:19:08,SSD Drive,Peripherals,East,CUST-5920,1,220,Cancelled,David
+ORD-10342-2025-TX,2024-07-22 01:13:12,Mouse,Peripherals,South,CUST-8139,3,50,Shipped,Eve
+ORD-10343-2025-AZ,2024-04-27 07:53:20,Router,Electronics,West,CUST-8423,1,415,Cancelled,David
+ORD-10344-2025-TX,2024-12-02 09:08:17,Monitor,Electronics,North,CUST-9997,1,1314,Shipped,Alice
+ORD-10345-2025-CA,2024-01-10 15:30:35,Laptop,Electronics,West,CUST-2965,4,458,Shipped,Frank
+ORD-10346-2025-CA,2024-06-16 06:55:50,Monitor,Electronics,Central,CUST-3645,3,987,Cancelled,Charlie
+ORD-10347-2025-CA,2025-05-22 06:01:38,Monitor,Electronics,Central,CUST-9792,5,743,Shipped,Eve
+ORD-10348-2025-AZ,2025-04-12 02:24:21,External HDD,Peripherals,South,CUST-3807,3,105,Pending,David
+ORD-10349-2025-TX,2024-04-19 18:21:08,Monitor,Electronics,Central,CUST-7992,1,1203,Pending,Frank
+ORD-10350-2025-AZ,2025-01-05 10:53:13,Printer,Electronics,West,CUST-6597,2,1339,Shipped,Charlie
+ORD-10351-2025-TX,2025-05-07 19:13:45,External HDD,Networking,East,CUST-5274,3,144,Shipped,Alice
+ORD-10352-2025-AZ,2025-02-19 16:17:27,External HDD,Gaming,North,CUST-6860,2,63,Cancelled,Alice
+ORD-10353-2025-AZ,2024-10-07 00:30:00,Mouse,Peripherals,North,CUST-9555,2,139,Shipped,Frank
+ORD-10354-2025-CA,2024-07-13 07:57:26,Mouse,Peripherals,North,CUST-5230,3,100,Cancelled,Charlie
+ORD-10355-2025-TX,2024-09-29 21:15:26,Gaming Headset,Gaming,East,CUST-4260,2,110,Shipped,David
+ORD-10356-2025-CA,2024-11-15 05:06:01,Router,Electronics,East,CUST-6292,3,1251,Shipped,Alice
+ORD-10357-2025-TX,2024-04-08 00:05:06,External HDD,Storage,West,CUST-2110,4,248,Cancelled,Eve
+ORD-10358-2025-AZ,2024-01-16 08:22:16,Mouse,Peripherals,West,CUST-4873,1,35,Shipped,Bob
+ORD-10359-2025-CA,2024-11-04 07:43:32,SSD Drive,Accessories,Central,CUST-9541,5,281,Shipped,Eve
+ORD-10360-2025-AZ,2025-01-30 08:35:29,Gaming Headset,Gaming,East,CUST-2313,2,120,Shipped,Charlie
+ORD-10361-2025-TX,2024-04-27 01:46:57,Monitor,Electronics,South,CUST-5714,1,1317,Shipped,Alice
+ORD-10362-2025-CA,2025-04-28 13:17:53,Mouse,Peripherals,East,CUST-9632,5,133,Cancelled,Bob
+ORD-10363-2025-AZ,2025-05-03 02:27:16,Laptop,Electronics,East,CUST-5526,5,408,Shipped,Eve
+ORD-10364-2025-AZ,2024-12-27 23:01:46,Mouse,Peripherals,Central,CUST-1655,5,66,Pending,David
+ORD-10365-2025-AZ,2024-11-08 05:22:15,Router,Electronics,North,CUST-6231,2,849,Cancelled,Charlie
+ORD-10366-2025-CA,2024-07-05 08:34:19,Webcam,Peripherals,West,CUST-7622,2,146,Shipped,Frank
+ORD-10367-2025-AZ,2025-01-26 20:56:01,External HDD,Gaming,West,CUST-6244,3,24,Cancelled,Frank
+ORD-10368-2025-CA,2025-05-16 13:57:52,Printer,Electronics,West,CUST-5273,3,1122,Cancelled,David
+ORD-10369-2025-TX,2025-03-15 02:56:56,Laptop,Electronics,Central,CUST-5487,2,1327,Shipped,David
+ORD-10370-2025-AZ,2025-01-18 13:05:59,External HDD,Electronics,Central,CUST-3322,1,100,Cancelled,Bob
+ORD-10371-2025-CA,2024-12-15 18:57:43,SSD Drive,Storage,West,CUST-8417,1,65,Shipped,Alice
+ORD-10372-2025-AZ,2025-03-28 02:52:01,Mouse,Peripherals,East,CUST-6513,1,27,Shipped,Charlie
+ORD-10373-2025-TX,2024-09-26 03:54:41,Keyboard,Peripherals,Central,CUST-5978,3,94,Cancelled,Eve
+ORD-10374-2025-AZ,2024-07-09 05:42:33,Monitor,Electronics,South,CUST-9627,4,1399,Pending,Bob
+ORD-10375-2025-CA,2025-03-31 14:08:27,Router,Electronics,South,CUST-5940,3,925,Shipped,David
+ORD-10376-2025-TX,2025-01-23 18:50:06,Gaming Headset,Gaming,West,CUST-8658,4,137,Shipped,David
+ORD-10377-2025-CA,2025-04-19 20:53:06,Mouse,Peripherals,North,CUST-6219,3,79,Shipped,David
+ORD-10378-2025-AZ,2024-09-19 22:57:03,Printer,Electronics,West,CUST-3848,3,856,Shipped,Alice
+ORD-10379-2025-AZ,2024-09-08 13:31:09,Laptop,Electronics,Central,CUST-3941,2,842,Shipped,Frank
+ORD-10380-2025-CA,2024-07-09 21:14:29,Mouse,Peripherals,East,CUST-7025,1,83,Shipped,Eve
+ORD-10381-2025-TX,2024-07-27 12:05:17,Webcam,Peripherals,Central,CUST-4987,3,24,Shipped,Charlie
+ORD-10382-2025-AZ,2025-01-01 09:04:08,Laptop,Electronics,North,CUST-1153,3,461,Shipped,Eve
+ORD-10383-2025-AZ,2025-05-25 19:29:06,Router,Electronics,South,CUST-5226,5,945,Cancelled,Eve
+ORD-10384-2025-CA,2025-01-14 19:54:21,Router,Electronics,East,CUST-7181,3,618,Shipped,Alice
+ORD-10385-2025-AZ,2024-03-29 04:57:12,Laptop,Electronics,North,CUST-7239,2,615,Cancelled,Bob
+ORD-10386-2025-TX,2024-08-31 09:18:22,Printer,Electronics,Central,CUST-6049,3,860,Shipped,Alice
+ORD-10387-2025-AZ,2024-09-10 10:43:28,Monitor,Electronics,East,CUST-5743,1,693,Shipped,Frank
+ORD-10388-2025-TX,2025-03-06 05:12:19,Monitor,Electronics,East,CUST-9377,3,407,Shipped,Charlie
+ORD-10389-2025-AZ,2024-08-15 17:35:09,SSD Drive,Storage,West,CUST-1498,1,28,Shipped,Charlie
+ORD-10390-2025-TX,2025-02-26 19:35:38,Mouse,Peripherals,East,CUST-2885,3,59,Cancelled,Bob
+ORD-10391-2025-TX,2024-02-11 02:33:31,Laptop,Electronics,West,CUST-7101,5,518,Shipped,Frank
+ORD-10392-2025-AZ,2024-11-07 11:42:56,Gaming Headset,Gaming,East,CUST-5939,5,102,Pending,Alice
+ORD-10393-2025-CA,2024-05-10 06:32:27,Gaming Headset,Gaming,Central,CUST-7342,3,201,Shipped,Charlie
+ORD-10394-2025-AZ,2025-02-04 13:53:13,Webcam,Peripherals,South,CUST-4077,1,145,Shipped,Charlie
+ORD-10395-2025-AZ,2025-05-22 15:35:45,Webcam,Peripherals,East,CUST-7907,5,82,Pending,Alice
+ORD-10396-2025-TX,2025-04-07 13:44:22,Laptop,Electronics,Central,CUST-4787,5,1495,Pending,David
+ORD-10397-2025-TX,2024-12-16 03:28:02,Printer,Electronics,South,CUST-5787,1,1175,Shipped,David
+ORD-10398-2025-AZ,2025-02-21 11:55:50,Laptop,Electronics,South,CUST-6353,5,941,Shipped,David
+ORD-10399-2025-TX,2025-02-04 13:53:07,SSD Drive,Networking,East,CUST-7282,3,24,Cancelled,Charlie
+ORD-10400-2025-AZ,2024-02-19 16:49:57,Monitor,Electronics,West,CUST-6210,1,1187,Cancelled,Eve
+ORD-10401-2025-TX,2024-05-15 04:03:26,External HDD,Networking,South,CUST-1923,3,75,Pending,Frank
+ORD-10402-2025-AZ,2025-06-28 14:49:00,Router,Electronics,West,CUST-3698,5,456,Shipped,Alice
+ORD-10403-2025-TX,2025-02-19 10:03:07,External HDD,Electronics,North,CUST-3055,3,221,Cancelled,Charlie
+ORD-10404-2025-AZ,2024-05-25 13:20:58,Webcam,Peripherals,West,CUST-4580,5,85,Shipped,Alice
+ORD-10405-2025-CA,2024-08-23 11:54:43,SSD Drive,Peripherals,South,CUST-1361,4,277,Shipped,Frank
+ORD-10406-2025-AZ,2024-02-12 19:10:26,Webcam,Peripherals,West,CUST-7559,4,40,Cancelled,Frank
+ORD-10407-2025-TX,2024-08-25 14:57:37,Router,Electronics,Central,CUST-8205,1,1360,Shipped,David
+ORD-10408-2025-TX,2024-01-07 04:29:14,Laptop,Electronics,East,CUST-5425,4,962,Shipped,David
+ORD-10409-2025-TX,2024-02-24 15:13:15,Laptop,Electronics,North,CUST-2692,5,784,Cancelled,Frank
+ORD-10410-2025-AZ,2024-02-17 22:55:01,SSD Drive,Electronics,North,CUST-9884,2,37,Cancelled,Alice
+ORD-10411-2025-CA,2024-08-17 18:11:15,Mouse,Peripherals,Central,CUST-9462,2,146,Shipped,Alice
+ORD-10412-2025-AZ,2024-08-10 09:41:52,SSD Drive,Storage,South,CUST-1064,5,169,Shipped,David
+ORD-10413-2025-AZ,2024-05-16 03:41:27,Webcam,Peripherals,North,CUST-2888,1,51,Pending,Charlie
+ORD-10414-2025-TX,2024-10-20 21:58:42,External HDD,Storage,East,CUST-5998,4,258,Shipped,Bob
+ORD-10415-2025-CA,2025-01-29 14:27:46,Printer,Electronics,South,CUST-6324,3,877,Shipped,David
+ORD-10416-2025-AZ,2024-12-25 18:09:42,Monitor,Electronics,East,CUST-8356,1,1344,Pending,Eve
+ORD-10417-2025-TX,2024-11-26 02:24:20,Keyboard,Peripherals,North,CUST-2416,2,60,Pending,Frank
+ORD-10418-2025-TX,2025-02-23 17:28:55,Monitor,Electronics,North,CUST-6370,1,900,Shipped,Charlie
+ORD-10419-2025-TX,2025-03-03 06:36:23,Mouse,Peripherals,Central,CUST-6674,4,50,Shipped,Charlie
+ORD-10420-2025-TX,2024-05-12 17:36:30,Keyboard,Peripherals,North,CUST-4505,4,101,Shipped,Alice
+ORD-10421-2025-AZ,2024-08-30 09:00:25,Webcam,Peripherals,West,CUST-8631,2,94,Shipped,David
+ORD-10422-2025-CA,2024-06-07 23:13:59,SSD Drive,Networking,South,CUST-8266,3,170,Shipped,David
+ORD-10423-2025-TX,2024-02-16 11:51:20,Gaming Headset,Gaming,South,CUST-3290,1,167,Shipped,Alice
+ORD-10424-2025-CA,2025-04-03 04:52:53,Router,Electronics,East,CUST-3167,2,801,Shipped,Bob
+ORD-10425-2025-AZ,2025-02-18 18:12:00,Webcam,Peripherals,Central,CUST-8274,5,90,Pending,Frank
+ORD-10426-2025-CA,2024-06-08 18:48:06,SSD Drive,Networking,South,CUST-2507,1,215,Shipped,Alice
+ORD-10427-2025-AZ,2025-04-26 12:12:10,Mouse,Peripherals,East,CUST-4740,4,32,Shipped,Frank
+ORD-10428-2025-TX,2025-06-12 07:32:00,Router,Electronics,West,CUST-1226,5,606,Cancelled,Eve
+ORD-10429-2025-TX,2024-09-03 04:11:39,Laptop,Electronics,South,CUST-2805,3,891,Cancelled,Eve
+ORD-10430-2025-CA,2024-11-04 00:44:33,Gaming Headset,Gaming,South,CUST-4502,5,107,Pending,Frank
+ORD-10431-2025-CA,2024-09-06 20:32:11,Printer,Electronics,East,CUST-5878,5,959,Shipped,Alice
+ORD-10432-2025-AZ,2024-05-15 15:22:53,Mouse,Peripherals,North,CUST-1700,1,70,Shipped,Eve
+ORD-10433-2025-AZ,2024-02-13 10:49:53,External HDD,Storage,North,CUST-8140,3,101,Shipped,David
+ORD-10434-2025-CA,2024-02-05 02:18:16,Gaming Headset,Gaming,West,CUST-4211,4,193,Pending,Bob
+ORD-10435-2025-CA,2024-04-09 16:54:41,Keyboard,Peripherals,East,CUST-9680,5,122,Pending,Charlie
+ORD-10436-2025-AZ,2024-02-28 03:32:44,Keyboard,Peripherals,Central,CUST-4729,4,102,Cancelled,Alice
+ORD-10437-2025-AZ,2025-04-04 01:18:11,Laptop,Electronics,East,CUST-6111,2,1477,Pending,Alice
+ORD-10438-2025-TX,2024-05-18 09:30:12,Laptop,Electronics,East,CUST-6055,2,482,Pending,Frank
+ORD-10439-2025-AZ,2024-07-31 22:19:02,SSD Drive,Electronics,South,CUST-7967,2,287,Shipped,Eve
+ORD-10440-2025-CA,2024-08-22 12:00:32,Printer,Electronics,West,CUST-1554,2,1017,Shipped,Bob
+ORD-10441-2025-TX,2025-04-15 17:22:27,External HDD,Gaming,Central,CUST-3913,3,63,Shipped,Eve
+ORD-10442-2025-TX,2024-02-08 23:48:14,Printer,Electronics,North,CUST-1382,2,1356,Shipped,Charlie
+ORD-10443-2025-CA,2025-01-19 20:00:24,Printer,Electronics,South,CUST-7069,5,1325,Shipped,David
+ORD-10444-2025-AZ,2024-09-11 12:27:06,Keyboard,Peripherals,West,CUST-7136,5,60,Shipped,Charlie
+ORD-10445-2025-CA,2024-12-04 22:39:38,External HDD,Networking,West,CUST-8639,2,136,Shipped,David
+ORD-10446-2025-TX,2025-06-22 21:17:13,Laptop,Electronics,East,CUST-5126,5,410,Cancelled,Charlie
+ORD-10447-2025-AZ,2025-05-09 13:16:30,Monitor,Electronics,East,CUST-6323,2,1061,Shipped,Eve
+ORD-10448-2025-CA,2025-05-08 12:27:15,Monitor,Electronics,East,CUST-2205,4,934,Shipped,Bob
+ORD-10449-2025-AZ,2024-02-14 11:30:20,Webcam,Peripherals,East,CUST-5608,4,101,Shipped,David
+ORD-10450-2025-CA,2025-02-28 16:00:38,Router,Electronics,North,CUST-9265,5,901,Shipped,Eve
+ORD-10451-2025-AZ,2024-10-16 11:29:26,Laptop,Electronics,West,CUST-7294,3,1216,Cancelled,Alice
+ORD-10452-2025-CA,2024-01-15 04:43:20,Monitor,Electronics,Central,CUST-5170,3,1004,Cancelled,Eve
+ORD-10453-2025-TX,2025-01-03 08:11:31,Webcam,Peripherals,East,CUST-3966,2,128,Shipped,Frank
+ORD-10454-2025-AZ,2024-12-07 10:33:59,Keyboard,Peripherals,East,CUST-3437,1,125,Shipped,Bob
+ORD-10455-2025-TX,2025-03-06 11:26:52,Gaming Headset,Gaming,Central,CUST-9842,1,237,Shipped,Charlie
+ORD-10456-2025-TX,2024-06-21 13:23:10,Laptop,Electronics,West,CUST-5882,3,639,Shipped,Charlie
+ORD-10457-2025-CA,2024-12-17 08:21:38,Mouse,Peripherals,West,CUST-5722,1,45,Shipped,Bob
+ORD-10458-2025-AZ,2025-01-14 18:13:37,Keyboard,Peripherals,Central,CUST-8241,1,76,Shipped,David
+ORD-10459-2025-CA,2024-08-06 11:53:50,Mouse,Peripherals,South,CUST-2335,3,134,Shipped,David
+ORD-10460-2025-TX,2025-02-16 17:59:10,Gaming Headset,Gaming,West,CUST-8568,4,179,Pending,Charlie
+ORD-10461-2025-AZ,2024-01-08 09:51:04,Mouse,Peripherals,West,CUST-2511,2,142,Shipped,Frank
+ORD-10462-2025-CA,2024-05-02 22:48:27,Gaming Headset,Gaming,South,CUST-3420,3,145,Shipped,Charlie
+ORD-10463-2025-TX,2024-07-10 16:48:26,Laptop,Electronics,South,CUST-7300,2,583,Shipped,Frank
+ORD-10464-2025-TX,2024-12-20 16:38:41,Router,Electronics,East,CUST-1011,4,585,Shipped,Alice
+ORD-10465-2025-TX,2024-09-20 10:14:35,SSD Drive,Gaming,North,CUST-4338,3,107,Shipped,Alice
+ORD-10466-2025-TX,2024-05-26 05:04:18,Webcam,Peripherals,South,CUST-7601,2,144,Pending,Alice
+ORD-10467-2025-AZ,2025-03-13 02:53:54,SSD Drive,Networking,Central,CUST-3738,2,103,Shipped,Charlie
+ORD-10468-2025-TX,2024-12-02 07:37:00,External HDD,Storage,East,CUST-8746,1,104,Pending,Bob
+ORD-10469-2025-TX,2025-06-13 08:42:47,SSD Drive,Peripherals,South,CUST-5249,5,29,Cancelled,Bob
+ORD-10470-2025-TX,2025-02-10 23:50:42,Laptop,Electronics,Central,CUST-9200,5,1251,Cancelled,Frank
+ORD-10471-2025-AZ,2024-04-23 01:38:53,Router,Electronics,North,CUST-5056,4,546,Pending,Bob
+ORD-10472-2025-TX,2025-05-20 20:18:50,SSD Drive,Storage,North,CUST-8200,1,126,Shipped,David
+ORD-10473-2025-AZ,2024-06-22 09:35:40,Monitor,Electronics,South,CUST-1070,4,1045,Shipped,Frank
+ORD-10474-2025-TX,2024-07-03 10:58:31,Mouse,Peripherals,Central,CUST-8934,5,146,Shipped,Alice
+ORD-10475-2025-CA,2024-02-29 12:11:27,Mouse,Peripherals,Central,CUST-6550,3,37,Shipped,Alice
+ORD-10476-2025-CA,2024-08-11 19:27:42,Mouse,Peripherals,North,CUST-8437,1,133,Shipped,Alice
+ORD-10477-2025-AZ,2025-03-14 04:47:13,Mouse,Peripherals,Central,CUST-1837,2,150,Shipped,Charlie
+ORD-10478-2025-CA,2024-06-06 02:49:35,Keyboard,Peripherals,North,CUST-3774,2,106,Cancelled,Frank
+ORD-10479-2025-TX,2024-01-02 18:14:58,Router,Electronics,North,CUST-6633,1,725,Cancelled,David
+ORD-10480-2025-CA,2024-09-04 00:18:44,Laptop,Electronics,North,CUST-7542,2,880,Cancelled,Frank
+ORD-10481-2025-TX,2024-05-22 05:00:23,Monitor,Electronics,West,CUST-8943,2,584,Cancelled,Frank
+ORD-10482-2025-TX,2024-12-24 03:29:48,SSD Drive,Peripherals,South,CUST-1659,2,258,Shipped,David
+ORD-10483-2025-CA,2024-06-04 06:53:26,Monitor,Electronics,Central,CUST-9855,1,1193,Shipped,David
+ORD-10484-2025-TX,2024-05-01 20:34:16,Keyboard,Peripherals,North,CUST-8738,2,60,Pending,Bob
+ORD-10485-2025-CA,2024-08-29 07:59:08,Monitor,Electronics,West,CUST-6618,5,1278,Cancelled,Charlie
+ORD-10486-2025-TX,2024-10-21 00:39:12,Webcam,Peripherals,South,CUST-6578,2,33,Pending,Frank
+ORD-10487-2025-TX,2024-02-02 18:10:00,Printer,Electronics,Central,CUST-9436,5,636,Pending,Eve
+ORD-10488-2025-CA,2024-02-08 03:15:43,Monitor,Electronics,East,CUST-9375,5,1009,Shipped,Bob
+ORD-10489-2025-TX,2024-11-04 18:42:16,External HDD,Accessories,West,CUST-8041,2,100,Cancelled,Charlie
+ORD-10490-2025-CA,2024-01-10 23:56:32,Monitor,Electronics,South,CUST-4932,5,1181,Cancelled,Eve
+ORD-10491-2025-CA,2024-05-12 16:07:57,Printer,Electronics,South,CUST-9128,2,1292,Shipped,Bob
+ORD-10492-2025-CA,2025-06-26 12:33:41,Printer,Electronics,South,CUST-8363,3,1270,Shipped,Charlie
+ORD-10493-2025-AZ,2024-02-03 03:08:38,Keyboard,Peripherals,South,CUST-4763,4,144,Cancelled,Frank
+ORD-10494-2025-AZ,2024-01-05 14:14:49,Gaming Headset,Gaming,South,CUST-4450,3,203,Cancelled,Alice
+ORD-10495-2025-AZ,2024-05-30 13:26:03,Gaming Headset,Gaming,West,CUST-2312,1,191,Cancelled,Frank
+ORD-10496-2025-CA,2024-12-26 14:26:29,Monitor,Electronics,Central,CUST-4995,1,979,Shipped,Bob
+ORD-10497-2025-CA,2024-08-02 00:02:22,Router,Electronics,Central,CUST-7867,5,1289,Cancelled,Alice
+ORD-10498-2025-TX,2025-03-17 22:33:13,Router,Electronics,North,CUST-9714,4,804,Shipped,Frank
+ORD-10499-2025-CA,2024-09-26 14:39:35,Mouse,Peripherals,Central,CUST-4467,1,116,Pending,David
+ORD-10500-2025-CA,2025-03-22 10:49:47,Gaming Headset,Gaming,North,CUST-5290,4,229,Cancelled,Charlie
+ORD-10501-2025-AZ,2025-03-26 11:10:11,Laptop,Electronics,North,CUST-6340,5,1009,Shipped,Alice
+ORD-10502-2025-TX,2024-05-24 00:00:07,External HDD,Electronics,West,CUST-2949,1,36,Shipped,Frank
+ORD-10503-2025-CA,2024-11-22 19:07:47,Gaming Headset,Gaming,North,CUST-1023,2,212,Shipped,Bob
+ORD-10504-2025-TX,2025-05-08 21:52:46,Laptop,Electronics,East,CUST-4074,5,1057,Cancelled,Alice
+ORD-10505-2025-TX,2025-01-08 12:19:23,Monitor,Electronics,North,CUST-9173,1,416,Pending,Alice
+ORD-10506-2025-AZ,2025-03-22 06:26:58,External HDD,Gaming,Central,CUST-3392,5,90,Shipped,Bob
+ORD-10507-2025-TX,2025-03-29 20:26:19,Keyboard,Peripherals,West,CUST-7354,4,81,Cancelled,Eve
+ORD-10508-2025-CA,2025-04-18 13:24:59,External HDD,Networking,East,CUST-6188,5,224,Shipped,David
+ORD-10509-2025-TX,2025-02-05 17:34:04,SSD Drive,Gaming,South,CUST-4273,3,270,Cancelled,Bob
+ORD-10510-2025-AZ,2024-11-20 00:56:32,SSD Drive,Accessories,West,CUST-4243,5,158,Shipped,Charlie
+ORD-10511-2025-AZ,2024-11-24 04:45:07,Printer,Electronics,South,CUST-7134,4,498,Shipped,Alice
+ORD-10512-2025-AZ,2024-04-15 14:04:36,Router,Electronics,West,CUST-1653,4,711,Pending,Eve
+ORD-10513-2025-AZ,2025-04-05 18:18:28,Keyboard,Peripherals,South,CUST-9544,5,96,Shipped,Alice
+ORD-10514-2025-TX,2024-06-13 17:05:24,Mouse,Peripherals,South,CUST-7150,1,51,Shipped,Alice
+ORD-10515-2025-TX,2024-04-04 01:56:48,Monitor,Electronics,West,CUST-9518,1,998,Shipped,David
+ORD-10516-2025-AZ,2025-04-11 02:55:18,SSD Drive,Electronics,East,CUST-2633,1,161,Pending,Eve
+ORD-10517-2025-TX,2024-09-09 03:35:47,Webcam,Peripherals,East,CUST-8317,1,39,Shipped,Frank
+ORD-10518-2025-TX,2024-10-18 07:24:03,Monitor,Electronics,West,CUST-8549,3,454,Pending,Eve
+ORD-10519-2025-AZ,2024-10-25 07:17:59,Keyboard,Peripherals,East,CUST-8227,4,69,Shipped,Bob
+ORD-10520-2025-AZ,2025-03-03 01:18:03,Printer,Electronics,Central,CUST-6383,2,611,Cancelled,Bob
+ORD-10521-2025-TX,2025-05-31 06:42:39,External HDD,Networking,Central,CUST-2934,3,229,Shipped,Charlie
+ORD-10522-2025-CA,2025-03-19 23:52:20,Laptop,Electronics,South,CUST-4461,1,1182,Pending,Charlie
+ORD-10523-2025-TX,2024-09-13 16:08:19,Router,Electronics,North,CUST-3186,1,578,Shipped,Frank
+ORD-10524-2025-AZ,2024-01-16 19:27:27,Laptop,Electronics,West,CUST-8088,1,839,Shipped,Eve
+ORD-10525-2025-CA,2025-05-08 10:33:26,Monitor,Electronics,West,CUST-8224,4,1287,Shipped,Bob
+ORD-10526-2025-AZ,2025-04-08 01:11:37,Monitor,Electronics,East,CUST-6828,3,1267,Shipped,Bob
+ORD-10527-2025-TX,2025-01-12 15:35:04,SSD Drive,Electronics,East,CUST-3984,4,165,Shipped,Alice
+ORD-10528-2025-AZ,2024-07-31 02:11:10,Keyboard,Peripherals,North,CUST-5534,4,144,Pending,Charlie
+ORD-10529-2025-AZ,2025-04-20 00:46:13,Gaming Headset,Gaming,North,CUST-8382,3,134,Cancelled,Frank
+ORD-10530-2025-CA,2025-04-10 12:56:30,Printer,Electronics,West,CUST-3529,2,725,Cancelled,Alice
+ORD-10531-2025-AZ,2025-03-13 06:35:54,Router,Electronics,Central,CUST-6505,4,1274,Shipped,David
+ORD-10532-2025-CA,2025-01-14 02:08:47,Monitor,Electronics,West,CUST-1063,2,1360,Cancelled,Charlie
+ORD-10533-2025-CA,2024-09-28 08:38:57,Monitor,Electronics,Central,CUST-1010,1,1115,Cancelled,Eve
+ORD-10534-2025-AZ,2024-11-13 13:19:37,Gaming Headset,Gaming,South,CUST-4559,1,142,Shipped,Bob
+ORD-10535-2025-TX,2025-02-25 22:48:50,Webcam,Peripherals,South,CUST-7134,2,124,Shipped,Eve
+ORD-10536-2025-CA,2024-09-19 11:07:28,Gaming Headset,Gaming,West,CUST-3409,4,226,Shipped,Eve
+ORD-10537-2025-AZ,2025-04-15 16:48:47,Printer,Electronics,North,CUST-5156,3,1469,Shipped,Alice
+ORD-10538-2025-AZ,2025-06-08 19:26:59,Webcam,Peripherals,Central,CUST-9318,1,47,Cancelled,Eve
+ORD-10539-2025-CA,2024-12-03 23:57:40,Keyboard,Peripherals,North,CUST-9972,3,57,Pending,Alice
+ORD-10540-2025-AZ,2024-08-24 17:33:08,Router,Electronics,West,CUST-3008,4,1309,Shipped,Eve
+ORD-10541-2025-TX,2025-03-09 06:20:35,Webcam,Peripherals,Central,CUST-3751,1,89,Shipped,Alice
+ORD-10542-2025-CA,2024-07-08 17:04:43,Webcam,Peripherals,North,CUST-3859,5,29,Pending,Eve
+ORD-10543-2025-TX,2024-05-02 01:23:21,Printer,Electronics,South,CUST-6359,2,1427,Pending,Charlie
+ORD-10544-2025-CA,2024-12-17 12:35:06,Keyboard,Peripherals,East,CUST-9256,2,29,Cancelled,Eve
+ORD-10545-2025-CA,2025-04-23 10:36:45,Router,Electronics,Central,CUST-3157,1,696,Shipped,David
+ORD-10546-2025-AZ,2024-10-15 15:37:43,Laptop,Electronics,North,CUST-3781,2,1366,Shipped,Alice
+ORD-10547-2025-AZ,2024-03-09 14:14:22,Mouse,Peripherals,South,CUST-1828,1,145,Shipped,Eve
+ORD-10548-2025-AZ,2025-04-15 22:14:35,Gaming Headset,Gaming,Central,CUST-2634,1,214,Cancelled,Alice
+ORD-10549-2025-AZ,2024-10-29 05:01:37,Webcam,Peripherals,South,CUST-8925,1,88,Pending,Eve
+ORD-10550-2025-CA,2024-11-07 15:57:28,Laptop,Electronics,Central,CUST-9574,2,1160,Shipped,David
+ORD-10551-2025-TX,2024-03-22 21:18:19,Router,Electronics,West,CUST-2891,3,762,Shipped,Bob
+ORD-10552-2025-TX,2025-04-03 09:16:03,SSD Drive,Gaming,South,CUST-6457,2,222,Shipped,David
+ORD-10553-2025-CA,2024-02-16 21:31:19,Printer,Electronics,Central,CUST-2153,3,405,Shipped,Bob
+ORD-10554-2025-AZ,2024-07-25 22:53:27,Laptop,Electronics,North,CUST-2009,4,1199,Shipped,David
+ORD-10555-2025-TX,2024-09-11 16:30:36,Webcam,Peripherals,East,CUST-9670,3,66,Shipped,Alice
+ORD-10556-2025-AZ,2024-12-30 18:01:35,Keyboard,Peripherals,West,CUST-5715,2,114,Cancelled,Bob
+ORD-10557-2025-TX,2024-07-10 00:21:58,Gaming Headset,Gaming,West,CUST-2905,1,126,Shipped,Charlie
+ORD-10558-2025-AZ,2024-09-07 13:51:25,Monitor,Electronics,North,CUST-6080,1,467,Shipped,Bob
+ORD-10559-2025-AZ,2024-01-16 19:59:20,External HDD,Accessories,West,CUST-2636,3,222,Shipped,Eve
+ORD-10560-2025-TX,2024-09-30 22:25:14,Monitor,Electronics,East,CUST-5784,3,1486,Pending,Frank
+ORD-10561-2025-TX,2024-05-23 16:52:20,Keyboard,Peripherals,East,CUST-7385,2,33,Shipped,Bob
+ORD-10562-2025-CA,2024-06-17 17:16:01,Keyboard,Peripherals,South,CUST-3132,1,36,Shipped,David
+ORD-10563-2025-AZ,2025-05-20 21:16:18,External HDD,Networking,West,CUST-1381,5,31,Cancelled,Alice
+ORD-10564-2025-AZ,2024-03-23 16:45:44,Laptop,Electronics,East,CUST-5025,4,698,Pending,Bob
+ORD-10565-2025-CA,2025-04-26 13:52:55,Printer,Electronics,South,CUST-9041,2,987,Shipped,Alice
+ORD-10566-2025-AZ,2024-07-17 08:44:29,External HDD,Gaming,West,CUST-5967,5,161,Shipped,Charlie
+ORD-10567-2025-TX,2024-10-04 23:34:33,Webcam,Peripherals,Central,CUST-8569,1,79,Cancelled,Charlie
+ORD-10568-2025-CA,2024-02-20 03:49:24,Laptop,Electronics,East,CUST-6058,2,674,Cancelled,Eve
+ORD-10569-2025-CA,2024-06-10 08:49:53,Mouse,Peripherals,West,CUST-4932,2,94,Shipped,David
+ORD-10570-2025-TX,2024-11-21 17:06:57,Printer,Electronics,Central,CUST-9074,2,855,Cancelled,Alice
+ORD-10571-2025-TX,2024-02-17 01:50:37,Gaming Headset,Gaming,East,CUST-1948,2,104,Shipped,Bob
+ORD-10572-2025-AZ,2025-04-12 22:32:14,Monitor,Electronics,West,CUST-4089,1,1283,Cancelled,Alice
+ORD-10573-2025-CA,2025-03-14 21:46:10,Gaming Headset,Gaming,Central,CUST-4238,3,131,Shipped,Alice
+ORD-10574-2025-TX,2024-06-11 14:05:48,SSD Drive,Networking,South,CUST-7410,3,107,Pending,Bob
+ORD-10575-2025-CA,2024-02-11 08:30:33,Gaming Headset,Gaming,East,CUST-8971,1,92,Cancelled,Charlie
+ORD-10576-2025-AZ,2024-11-21 17:44:33,Gaming Headset,Gaming,West,CUST-7910,4,170,Shipped,Eve
+ORD-10577-2025-AZ,2024-01-12 22:52:14,Keyboard,Peripherals,Central,CUST-8163,5,63,Pending,Bob
+ORD-10578-2025-TX,2025-05-19 12:51:36,Router,Electronics,Central,CUST-2027,4,656,Pending,Charlie
+ORD-10579-2025-TX,2025-03-04 06:23:11,External HDD,Storage,South,CUST-5909,2,290,Shipped,Frank
+ORD-10580-2025-TX,2024-07-15 19:44:23,Printer,Electronics,North,CUST-8801,3,694,Shipped,Bob
+ORD-10581-2025-CA,2024-03-07 07:26:54,Keyboard,Peripherals,Central,CUST-7317,3,88,Shipped,Charlie
+ORD-10582-2025-AZ,2024-08-10 01:53:25,Keyboard,Peripherals,East,CUST-8399,2,37,Shipped,Alice
+ORD-10583-2025-CA,2024-02-06 17:14:40,Printer,Electronics,East,CUST-1268,3,505,Shipped,Alice
+ORD-10584-2025-AZ,2024-06-28 16:47:13,Gaming Headset,Gaming,East,CUST-4768,3,176,Pending,Alice
+ORD-10585-2025-CA,2024-01-13 09:24:30,Webcam,Peripherals,West,CUST-9375,3,112,Shipped,David
+ORD-10586-2025-TX,2025-04-13 08:45:48,Router,Electronics,Central,CUST-7527,1,1145,Shipped,Charlie
+ORD-10587-2025-TX,2024-07-23 16:51:34,Keyboard,Peripherals,West,CUST-1604,3,111,Shipped,David
+ORD-10588-2025-CA,2024-07-13 11:25:41,SSD Drive,Electronics,West,CUST-6406,3,160,Shipped,Bob
+ORD-10589-2025-CA,2024-11-09 13:12:03,SSD Drive,Peripherals,West,CUST-3280,4,44,Shipped,Frank
+ORD-10590-2025-AZ,2025-03-08 03:42:12,Printer,Electronics,North,CUST-4245,2,1148,Shipped,Frank
+ORD-10591-2025-AZ,2025-06-08 23:57:50,SSD Drive,Gaming,East,CUST-7895,1,164,Pending,Alice
+ORD-10592-2025-TX,2024-12-14 20:26:26,Printer,Electronics,West,CUST-6947,4,687,Shipped,Frank
+ORD-10593-2025-TX,2024-11-16 02:59:08,Mouse,Peripherals,West,CUST-3141,3,104,Shipped,Frank
+ORD-10594-2025-CA,2024-04-18 20:36:39,Router,Electronics,East,CUST-4099,4,1310,Shipped,Eve
+ORD-10595-2025-AZ,2025-05-07 05:04:13,Monitor,Electronics,South,CUST-4786,4,1162,Shipped,Bob
+ORD-10596-2025-TX,2025-06-18 22:48:15,Router,Electronics,Central,CUST-5833,2,700,Shipped,Charlie
+ORD-10597-2025-CA,2024-07-21 22:23:19,Printer,Electronics,East,CUST-9058,4,1443,Shipped,Bob
+ORD-10598-2025-TX,2025-04-01 21:48:07,Mouse,Peripherals,North,CUST-9940,5,58,Pending,Bob
+ORD-10599-2025-AZ,2025-04-26 20:47:20,External HDD,Peripherals,Central,CUST-8132,1,208,Shipped,Charlie
+ORD-10600-2025-CA,2024-05-05 01:30:18,Keyboard,Peripherals,South,CUST-5991,3,49,Pending,Alice
+ORD-10601-2025-TX,2024-06-22 06:38:21,Monitor,Electronics,East,CUST-9389,4,1052,Cancelled,David
+ORD-10602-2025-TX,2024-06-09 20:00:52,SSD Drive,Storage,North,CUST-9486,3,82,Shipped,Charlie
+ORD-10603-2025-TX,2025-04-23 08:42:43,Mouse,Peripherals,Central,CUST-6297,2,50,Pending,Eve
+ORD-10604-2025-AZ,2024-01-11 05:28:11,Gaming Headset,Gaming,North,CUST-8719,3,138,Cancelled,David
+ORD-10605-2025-CA,2024-03-09 08:22:08,Router,Electronics,Central,CUST-3210,3,799,Cancelled,Eve
+ORD-10606-2025-AZ,2025-06-09 17:34:34,Printer,Electronics,South,CUST-2591,1,1428,Pending,Charlie
+ORD-10607-2025-CA,2025-04-05 22:54:24,Monitor,Electronics,West,CUST-4220,3,1322,Shipped,Frank
+ORD-10608-2025-AZ,2025-04-06 19:09:07,SSD Drive,Storage,Central,CUST-7827,4,129,Cancelled,Eve
+ORD-10609-2025-AZ,2024-06-05 12:58:00,Laptop,Electronics,Central,CUST-3570,2,933,Shipped,Eve
+ORD-10610-2025-TX,2024-06-27 07:48:48,Monitor,Electronics,North,CUST-8083,1,400,Pending,Frank
+ORD-10611-2025-TX,2024-05-28 18:46:55,Keyboard,Peripherals,Central,CUST-9034,4,44,Pending,Charlie
+ORD-10612-2025-CA,2024-04-07 00:59:36,Printer,Electronics,East,CUST-6596,5,1004,Cancelled,Eve
+ORD-10613-2025-CA,2025-02-02 17:45:11,Webcam,Peripherals,West,CUST-3942,2,60,Cancelled,Eve
+ORD-10614-2025-CA,2024-11-26 08:58:28,SSD Drive,Peripherals,West,CUST-8357,5,248,Pending,Alice
+ORD-10615-2025-CA,2025-03-09 21:39:11,External HDD,Storage,East,CUST-6649,1,69,Pending,Charlie
+ORD-10616-2025-AZ,2024-01-24 14:05:23,Printer,Electronics,North,CUST-5429,2,813,Shipped,Bob
+ORD-10617-2025-TX,2024-09-05 14:23:16,Mouse,Peripherals,North,CUST-5611,1,70,Shipped,Alice
+ORD-10618-2025-AZ,2024-08-07 03:04:00,Router,Electronics,North,CUST-9147,5,1005,Cancelled,Charlie
+ORD-10619-2025-AZ,2024-12-29 02:38:50,Keyboard,Peripherals,South,CUST-8656,1,49,Shipped,Charlie
+ORD-10620-2025-TX,2024-04-11 00:39:35,Monitor,Electronics,North,CUST-3270,2,1345,Cancelled,Frank
+ORD-10621-2025-CA,2024-04-19 00:04:27,SSD Drive,Gaming,East,CUST-5334,1,234,Shipped,Charlie
+ORD-10622-2025-TX,2024-06-19 14:45:32,Gaming Headset,Gaming,East,CUST-5231,2,112,Pending,Charlie
+ORD-10623-2025-CA,2025-02-22 06:17:05,Laptop,Electronics,East,CUST-4207,1,513,Shipped,Frank
+ORD-10624-2025-CA,2024-07-07 15:06:10,SSD Drive,Accessories,Central,CUST-4228,5,124,Shipped,David
+ORD-10625-2025-TX,2025-01-29 07:11:02,Mouse,Peripherals,South,CUST-8167,2,28,Pending,Charlie
+ORD-10626-2025-TX,2024-10-08 09:42:20,Printer,Electronics,North,CUST-7879,3,875,Cancelled,Eve
+ORD-10627-2025-AZ,2024-11-04 17:10:57,Monitor,Electronics,West,CUST-5126,3,1130,Shipped,David
+ORD-10628-2025-TX,2024-01-18 22:07:15,Monitor,Electronics,West,CUST-6287,3,671,Shipped,David
+ORD-10629-2025-AZ,2025-06-16 17:50:30,Monitor,Electronics,North,CUST-8172,1,1320,Shipped,David
+ORD-10630-2025-TX,2024-08-19 23:42:10,Webcam,Peripherals,Central,CUST-7052,3,114,Pending,Eve
+ORD-10631-2025-AZ,2025-01-07 08:58:04,External HDD,Accessories,South,CUST-1055,5,250,Cancelled,Bob
+ORD-10632-2025-AZ,2025-01-16 10:03:25,Printer,Electronics,South,CUST-2945,5,937,Shipped,Bob
+ORD-10633-2025-TX,2024-11-27 17:18:18,Monitor,Electronics,East,CUST-1120,1,1350,Shipped,Frank
+ORD-10634-2025-CA,2024-09-27 14:22:50,Printer,Electronics,East,CUST-9119,4,1173,Shipped,Alice
+ORD-10635-2025-CA,2024-02-06 09:04:27,SSD Drive,Electronics,South,CUST-8073,4,226,Shipped,Eve
+ORD-10636-2025-TX,2024-01-20 08:40:15,Mouse,Peripherals,North,CUST-3115,4,122,Shipped,Bob
+ORD-10637-2025-CA,2025-05-06 20:49:21,Laptop,Electronics,East,CUST-2706,5,1370,Shipped,Eve
+ORD-10638-2025-AZ,2024-11-08 03:33:03,Keyboard,Peripherals,West,CUST-5283,5,62,Shipped,Alice
+ORD-10639-2025-AZ,2024-03-25 14:45:24,Mouse,Peripherals,South,CUST-3245,2,125,Cancelled,Frank
+ORD-10640-2025-CA,2024-10-23 20:50:25,External HDD,Peripherals,South,CUST-8142,4,160,Shipped,Eve
+ORD-10641-2025-AZ,2024-03-21 17:44:34,Webcam,Peripherals,North,CUST-7299,5,77,Pending,Charlie
+ORD-10642-2025-CA,2024-07-31 17:15:06,External HDD,Electronics,North,CUST-4166,4,283,Shipped,Charlie
+ORD-10643-2025-CA,2024-08-18 13:03:04,External HDD,Accessories,Central,CUST-8437,2,211,Pending,Frank
+ORD-10644-2025-TX,2025-03-17 06:59:15,Laptop,Electronics,South,CUST-9921,5,858,Shipped,Charlie
+ORD-10645-2025-TX,2024-06-24 23:39:17,External HDD,Accessories,Central,CUST-7815,3,278,Shipped,David
+ORD-10646-2025-CA,2024-01-17 16:33:51,Printer,Electronics,Central,CUST-4975,2,1041,Shipped,Eve
+ORD-10647-2025-AZ,2024-08-29 20:26:45,Laptop,Electronics,North,CUST-7781,1,1042,Shipped,Eve
+ORD-10648-2025-TX,2025-01-09 19:21:25,External HDD,Accessories,Central,CUST-9677,1,300,Cancelled,Bob
+ORD-10649-2025-CA,2024-02-19 11:52:53,External HDD,Electronics,North,CUST-1431,5,161,Cancelled,Frank
+ORD-10650-2025-CA,2024-02-05 19:51:53,External HDD,Gaming,North,CUST-6628,1,90,Shipped,Frank
+ORD-10651-2025-CA,2025-03-15 13:33:22,Monitor,Electronics,East,CUST-7402,4,848,Pending,Eve
+ORD-10652-2025-AZ,2025-04-16 15:42:15,SSD Drive,Gaming,North,CUST-5141,2,190,Shipped,David
+ORD-10653-2025-AZ,2024-10-30 01:51:40,Printer,Electronics,North,CUST-3269,1,1215,Cancelled,Charlie
+ORD-10654-2025-AZ,2025-04-07 13:32:52,Mouse,Peripherals,East,CUST-4060,1,39,Cancelled,David
+ORD-10655-2025-TX,2024-03-16 08:15:30,Laptop,Electronics,North,CUST-9445,4,1275,Shipped,Charlie
+ORD-10656-2025-TX,2025-06-27 01:02:01,SSD Drive,Peripherals,East,CUST-3617,5,279,Pending,Frank
+ORD-10657-2025-CA,2024-05-08 04:41:22,Webcam,Peripherals,East,CUST-3380,2,96,Shipped,Charlie
+ORD-10658-2025-CA,2024-09-19 02:06:47,Laptop,Electronics,West,CUST-6075,3,1188,Pending,David
+ORD-10659-2025-AZ,2024-09-10 16:56:07,Gaming Headset,Gaming,South,CUST-3347,1,137,Shipped,Alice
+ORD-10660-2025-CA,2024-07-24 12:54:14,Gaming Headset,Gaming,West,CUST-4669,2,139,Cancelled,Eve
+ORD-10661-2025-CA,2024-09-04 05:35:43,Monitor,Electronics,East,CUST-7235,4,640,Cancelled,Bob
+ORD-10662-2025-AZ,2024-07-07 20:15:09,Printer,Electronics,South,CUST-2205,1,797,Shipped,David
+ORD-10663-2025-AZ,2025-05-24 19:58:21,Keyboard,Peripherals,West,CUST-6125,5,25,Cancelled,Alice
+ORD-10664-2025-TX,2025-06-06 20:07:05,Router,Electronics,West,CUST-8307,3,1098,Shipped,Charlie
+ORD-10665-2025-AZ,2024-11-23 01:07:37,Laptop,Electronics,Central,CUST-3353,4,1297,Shipped,Frank
+ORD-10666-2025-CA,2025-03-05 05:06:50,Router,Electronics,North,CUST-7817,1,877,Shipped,Eve
+ORD-10667-2025-CA,2024-03-08 15:34:24,Router,Electronics,West,CUST-3740,3,1005,Shipped,Bob
+ORD-10668-2025-AZ,2024-03-16 13:07:22,Laptop,Electronics,North,CUST-6556,1,557,Shipped,Alice
+ORD-10669-2025-AZ,2024-03-19 05:08:38,Mouse,Peripherals,North,CUST-6458,1,117,Shipped,Frank
+ORD-10670-2025-AZ,2024-10-04 08:16:03,SSD Drive,Networking,West,CUST-6527,1,34,Shipped,Alice
+ORD-10671-2025-AZ,2024-12-15 07:55:50,Keyboard,Peripherals,South,CUST-6028,2,130,Cancelled,David
+ORD-10672-2025-AZ,2024-04-10 18:51:39,Keyboard,Peripherals,North,CUST-2331,1,54,Shipped,Alice
+ORD-10673-2025-AZ,2024-09-02 04:34:24,Laptop,Electronics,West,CUST-6070,2,1422,Shipped,Eve
+ORD-10674-2025-CA,2024-12-28 22:24:55,Laptop,Electronics,West,CUST-5361,1,1116,Shipped,Frank
+ORD-10675-2025-CA,2024-08-13 20:46:15,Laptop,Electronics,Central,CUST-8584,3,1163,Shipped,Eve
+ORD-10676-2025-AZ,2024-08-14 16:19:46,Laptop,Electronics,South,CUST-1930,1,582,Pending,Alice
+ORD-10677-2025-CA,2024-12-11 23:22:59,External HDD,Networking,East,CUST-9435,1,22,Shipped,Frank
+ORD-10678-2025-CA,2025-01-20 06:07:48,Monitor,Electronics,North,CUST-5845,4,1032,Pending,Alice
+ORD-10679-2025-CA,2024-04-03 03:55:55,Router,Electronics,East,CUST-4700,3,872,Shipped,Eve
+ORD-10680-2025-CA,2024-09-05 14:04:19,SSD Drive,Networking,West,CUST-2642,5,123,Pending,David
+ORD-10681-2025-TX,2024-02-16 06:14:27,Webcam,Peripherals,West,CUST-4391,4,30,Pending,Eve
+ORD-10682-2025-CA,2024-08-29 11:07:30,Monitor,Electronics,North,CUST-6459,2,552,Shipped,Bob
+ORD-10683-2025-TX,2024-02-19 12:29:51,Monitor,Electronics,South,CUST-3823,4,1091,Shipped,Eve
+ORD-10684-2025-AZ,2024-08-09 12:54:53,Laptop,Electronics,South,CUST-9806,2,1279,Cancelled,Bob
+ORD-10685-2025-TX,2025-06-16 19:07:13,Webcam,Peripherals,North,CUST-8338,2,106,Pending,David
+ORD-10686-2025-TX,2024-11-03 21:00:22,SSD Drive,Peripherals,West,CUST-6595,5,93,Cancelled,Eve
+ORD-10687-2025-AZ,2024-04-06 22:31:22,Gaming Headset,Gaming,East,CUST-6693,3,160,Cancelled,David
+ORD-10688-2025-TX,2024-08-13 18:03:44,Printer,Electronics,West,CUST-9328,4,748,Shipped,David
+ORD-10689-2025-AZ,2024-08-05 04:39:40,Webcam,Peripherals,South,CUST-4189,1,68,Shipped,Charlie
+ORD-10690-2025-CA,2024-05-27 18:30:59,Printer,Electronics,East,CUST-9812,1,1434,Shipped,Eve
+ORD-10691-2025-CA,2024-12-01 12:49:07,Keyboard,Peripherals,South,CUST-7517,2,137,Shipped,David
+ORD-10692-2025-AZ,2025-04-12 15:10:30,Monitor,Electronics,North,CUST-8193,5,1467,Pending,Frank
+ORD-10693-2025-CA,2025-04-19 03:00:38,Keyboard,Peripherals,South,CUST-2421,5,26,Cancelled,Frank
+ORD-10694-2025-TX,2024-10-13 01:33:30,Mouse,Peripherals,South,CUST-2334,5,34,Shipped,Frank
+ORD-10695-2025-AZ,2025-04-04 05:08:52,Printer,Electronics,South,CUST-1955,1,1270,Shipped,Charlie
+ORD-10696-2025-CA,2024-05-10 17:42:03,Mouse,Peripherals,West,CUST-5808,1,112,Shipped,David
+ORD-10697-2025-CA,2024-05-28 09:06:36,Keyboard,Peripherals,North,CUST-7911,4,135,Shipped,Frank
+ORD-10698-2025-AZ,2024-05-12 22:51:44,SSD Drive,Peripherals,South,CUST-6001,4,202,Pending,Alice
+ORD-10699-2025-AZ,2025-03-04 06:38:58,Mouse,Peripherals,Central,CUST-4532,1,93,Shipped,Alice
+ORD-10700-2025-AZ,2024-01-16 19:17:57,Webcam,Peripherals,South,CUST-5870,3,35,Shipped,Bob
+ORD-10701-2025-TX,2025-04-06 01:04:54,Printer,Electronics,North,CUST-2792,3,1408,Shipped,David
+ORD-10702-2025-TX,2024-12-31 09:17:34,Monitor,Electronics,Central,CUST-9536,5,509,Shipped,Alice
+ORD-10703-2025-CA,2025-05-25 22:02:38,Mouse,Peripherals,West,CUST-9633,4,48,Pending,Eve
+ORD-10704-2025-AZ,2025-01-08 04:17:58,Keyboard,Peripherals,East,CUST-1585,5,23,Shipped,David
+ORD-10705-2025-TX,2024-03-13 23:00:27,Printer,Electronics,North,CUST-4228,4,830,Shipped,Charlie
+ORD-10706-2025-CA,2025-03-14 14:37:54,Mouse,Peripherals,North,CUST-5764,5,41,Shipped,Alice
+ORD-10707-2025-TX,2024-10-20 02:33:39,Keyboard,Peripherals,South,CUST-1575,1,33,Pending,Alice
+ORD-10708-2025-CA,2025-02-27 16:06:50,Gaming Headset,Gaming,South,CUST-6022,5,228,Pending,Charlie
+ORD-10709-2025-CA,2024-12-04 03:32:43,Mouse,Peripherals,East,CUST-2322,3,109,Pending,Charlie
+ORD-10710-2025-TX,2025-03-30 12:47:54,Gaming Headset,Gaming,East,CUST-8617,2,153,Pending,Eve
+ORD-10711-2025-TX,2025-04-17 01:57:45,External HDD,Storage,West,CUST-5248,2,272,Shipped,David
+ORD-10712-2025-CA,2024-12-26 01:00:24,SSD Drive,Networking,Central,CUST-8612,2,260,Cancelled,Eve
+ORD-10713-2025-TX,2024-07-07 03:13:23,Router,Electronics,Central,CUST-9484,4,856,Shipped,Alice
+ORD-10714-2025-TX,2024-05-12 18:44:42,Keyboard,Peripherals,West,CUST-9410,3,87,Shipped,Eve
+ORD-10715-2025-AZ,2024-11-02 20:48:52,Printer,Electronics,South,CUST-7925,2,1384,Shipped,Frank
+ORD-10716-2025-TX,2024-07-19 01:56:08,Mouse,Peripherals,South,CUST-6583,3,148,Shipped,Charlie
+ORD-10717-2025-CA,2025-05-13 10:24:19,External HDD,Networking,South,CUST-9146,5,102,Shipped,Charlie
+ORD-10718-2025-AZ,2024-11-20 12:17:19,External HDD,Accessories,South,CUST-6216,2,187,Shipped,Eve
+ORD-10719-2025-TX,2024-08-14 22:08:31,Laptop,Electronics,South,CUST-4107,5,1150,Cancelled,Alice
+ORD-10720-2025-TX,2025-02-23 16:58:13,Webcam,Peripherals,East,CUST-2666,3,86,Cancelled,Alice
+ORD-10721-2025-TX,2025-04-28 13:35:37,Laptop,Electronics,North,CUST-5435,3,1349,Shipped,Alice
+ORD-10722-2025-AZ,2024-12-05 13:32:52,Gaming Headset,Gaming,Central,CUST-5298,2,117,Shipped,David
+ORD-10723-2025-AZ,2025-03-13 23:20:46,Laptop,Electronics,Central,CUST-1524,4,1048,Pending,Charlie
+ORD-10724-2025-CA,2024-08-09 04:41:02,Printer,Electronics,West,CUST-9090,5,556,Pending,Bob
+ORD-10725-2025-CA,2024-10-17 17:00:23,Monitor,Electronics,South,CUST-8131,5,1158,Shipped,Bob
+ORD-10726-2025-CA,2025-06-22 13:39:44,SSD Drive,Storage,Central,CUST-8863,3,119,Shipped,David
+ORD-10727-2025-TX,2024-08-09 03:45:50,Gaming Headset,Gaming,West,CUST-7699,2,158,Pending,Eve
+ORD-10728-2025-CA,2025-01-14 04:23:34,Mouse,Peripherals,Central,CUST-4386,5,121,Shipped,Bob
+ORD-10729-2025-TX,2024-11-14 12:47:20,Gaming Headset,Gaming,East,CUST-6421,5,139,Shipped,David
+ORD-10730-2025-AZ,2025-05-03 22:01:08,SSD Drive,Storage,East,CUST-3752,5,238,Shipped,David
+ORD-10731-2025-AZ,2024-04-05 08:40:17,Gaming Headset,Gaming,Central,CUST-3993,5,139,Shipped,Eve
+ORD-10732-2025-CA,2024-05-08 20:46:09,Router,Electronics,Central,CUST-1074,3,507,Shipped,Charlie
+ORD-10733-2025-CA,2024-03-17 13:07:34,Gaming Headset,Gaming,West,CUST-6375,4,167,Shipped,Charlie
+ORD-10734-2025-AZ,2024-03-12 10:12:07,Webcam,Peripherals,West,CUST-7651,3,55,Shipped,David
+ORD-10735-2025-AZ,2024-10-21 21:45:44,SSD Drive,Peripherals,South,CUST-3192,2,253,Shipped,Bob
+ORD-10736-2025-CA,2025-05-30 23:03:47,Laptop,Electronics,East,CUST-5259,1,1038,Shipped,Bob
+ORD-10737-2025-TX,2024-01-19 16:17:49,Keyboard,Peripherals,East,CUST-9822,2,101,Cancelled,Bob
+ORD-10738-2025-AZ,2024-03-26 04:51:51,Gaming Headset,Gaming,South,CUST-3057,5,149,Shipped,Alice
+ORD-10739-2025-CA,2025-05-27 18:25:45,Router,Electronics,Central,CUST-1918,2,758,Cancelled,Bob
+ORD-10740-2025-TX,2025-01-10 00:52:14,Printer,Electronics,North,CUST-5669,2,565,Shipped,Bob
+ORD-10741-2025-AZ,2025-06-19 14:14:30,Gaming Headset,Gaming,North,CUST-7708,3,146,Shipped,David
+ORD-10742-2025-AZ,2024-01-01 12:49:28,SSD Drive,Storage,South,CUST-7943,4,45,Shipped,David
+ORD-10743-2025-CA,2024-06-05 07:00:45,Webcam,Peripherals,Central,CUST-2750,3,91,Pending,David
+ORD-10744-2025-AZ,2024-05-11 01:31:54,Gaming Headset,Gaming,Central,CUST-6939,3,112,Cancelled,Bob
+ORD-10745-2025-CA,2024-03-27 23:15:50,Laptop,Electronics,North,CUST-6407,5,1035,Shipped,Charlie
+ORD-10746-2025-CA,2024-12-24 02:16:43,Webcam,Peripherals,East,CUST-5701,3,25,Pending,Bob
+ORD-10747-2025-AZ,2025-05-17 17:24:17,Mouse,Peripherals,North,CUST-2295,5,38,Shipped,Charlie
+ORD-10748-2025-TX,2024-12-19 13:49:07,Monitor,Electronics,Central,CUST-3376,4,1365,Shipped,Frank
+ORD-10749-2025-CA,2024-03-25 19:08:50,Laptop,Electronics,West,CUST-9424,5,1478,Shipped,Alice
+ORD-10750-2025-AZ,2024-01-01 11:02:39,Router,Electronics,North,CUST-6829,4,842,Pending,David
+ORD-10751-2025-TX,2024-09-05 10:29:18,Monitor,Electronics,South,CUST-8749,3,549,Pending,Bob
+ORD-10752-2025-TX,2024-06-15 12:49:18,Monitor,Electronics,Central,CUST-3157,2,674,Cancelled,David
+ORD-10753-2025-TX,2024-08-27 07:53:33,Webcam,Peripherals,West,CUST-4848,4,101,Cancelled,Alice
+ORD-10754-2025-CA,2024-02-19 03:48:38,Gaming Headset,Gaming,East,CUST-7055,5,104,Cancelled,Eve
+ORD-10755-2025-CA,2025-05-11 04:48:25,Keyboard,Peripherals,North,CUST-6901,2,68,Pending,David
+ORD-10756-2025-TX,2025-01-22 08:35:45,SSD Drive,Peripherals,Central,CUST-2725,1,269,Shipped,Bob
+ORD-10757-2025-TX,2024-03-22 05:18:02,Printer,Electronics,South,CUST-3573,1,1274,Shipped,Eve
+ORD-10758-2025-AZ,2024-05-19 10:57:56,Keyboard,Peripherals,South,CUST-6651,3,58,Pending,Bob
+ORD-10759-2025-CA,2024-06-16 02:14:06,Router,Electronics,Central,CUST-9519,1,1160,Shipped,Charlie
+ORD-10760-2025-AZ,2024-05-09 00:56:23,Monitor,Electronics,South,CUST-2244,2,1204,Shipped,Bob
+ORD-10761-2025-AZ,2024-03-31 06:06:50,SSD Drive,Networking,South,CUST-7944,5,292,Shipped,Bob
+ORD-10762-2025-AZ,2024-03-14 23:22:41,Printer,Electronics,Central,CUST-6826,2,1057,Shipped,Frank
+ORD-10763-2025-TX,2024-04-26 07:37:45,Monitor,Electronics,West,CUST-7592,1,1277,Shipped,Frank
+ORD-10764-2025-AZ,2025-06-29 01:53:37,Laptop,Electronics,West,CUST-1757,2,821,Pending,David
+ORD-10765-2025-TX,2025-01-03 05:32:31,External HDD,Electronics,West,CUST-3745,4,85,Cancelled,Eve
+ORD-10766-2025-CA,2024-11-26 06:06:18,SSD Drive,Accessories,Central,CUST-4657,2,121,Shipped,Eve
+ORD-10767-2025-CA,2024-05-17 15:34:00,Printer,Electronics,Central,CUST-1558,5,667,Pending,David
+ORD-10768-2025-TX,2024-05-01 14:00:54,Monitor,Electronics,West,CUST-8672,3,915,Shipped,Frank
+ORD-10769-2025-AZ,2024-10-12 12:59:28,Router,Electronics,West,CUST-2918,5,621,Shipped,Alice
+ORD-10770-2025-CA,2024-01-13 14:01:21,Gaming Headset,Gaming,East,CUST-3846,1,169,Shipped,David
+ORD-10771-2025-TX,2025-01-27 15:25:09,Gaming Headset,Gaming,South,CUST-9859,2,82,Shipped,Frank
+ORD-10772-2025-CA,2025-01-12 20:15:50,Monitor,Electronics,East,CUST-4677,2,1138,Shipped,Charlie
+ORD-10773-2025-TX,2025-05-06 21:40:16,Printer,Electronics,East,CUST-8009,3,1480,Pending,Frank
+ORD-10774-2025-CA,2024-09-10 07:53:09,SSD Drive,Electronics,East,CUST-6199,5,219,Cancelled,Charlie
+ORD-10775-2025-AZ,2024-10-26 19:21:29,Monitor,Electronics,South,CUST-1156,4,554,Shipped,Bob
+ORD-10776-2025-CA,2024-02-25 14:27:25,Webcam,Peripherals,South,CUST-1199,2,34,Shipped,Bob
+ORD-10777-2025-TX,2025-06-09 10:45:59,Gaming Headset,Gaming,Central,CUST-1039,5,165,Cancelled,Bob
+ORD-10778-2025-CA,2024-11-24 14:28:27,Laptop,Electronics,East,CUST-4955,2,1205,Shipped,Eve
+ORD-10779-2025-CA,2025-01-12 15:47:02,Printer,Electronics,West,CUST-2789,5,1007,Shipped,Alice
+ORD-10780-2025-CA,2025-04-05 09:05:07,External HDD,Gaming,East,CUST-2186,5,241,Shipped,Eve
+ORD-10781-2025-TX,2025-04-27 11:33:31,Webcam,Peripherals,West,CUST-9668,4,83,Shipped,Alice
+ORD-10782-2025-CA,2025-02-08 23:01:36,Router,Electronics,North,CUST-3239,5,855,Shipped,Bob
+ORD-10783-2025-CA,2024-04-03 05:40:56,Laptop,Electronics,West,CUST-3828,5,1294,Shipped,Alice
+ORD-10784-2025-AZ,2024-01-06 11:25:35,Router,Electronics,West,CUST-4131,3,1228,Shipped,Bob
+ORD-10785-2025-AZ,2024-12-02 06:53:40,Monitor,Electronics,East,CUST-9074,2,1422,Pending,Bob
+ORD-10786-2025-TX,2025-04-04 21:45:54,Mouse,Peripherals,East,CUST-7591,3,141,Cancelled,Frank
+ORD-10787-2025-TX,2024-03-24 03:42:24,SSD Drive,Networking,West,CUST-2089,5,195,Pending,Frank
+ORD-10788-2025-CA,2024-05-23 07:30:10,Router,Electronics,South,CUST-7315,4,1059,Cancelled,Alice
+ORD-10789-2025-AZ,2024-05-11 09:15:39,Monitor,Electronics,Central,CUST-5552,5,1461,Cancelled,David
+ORD-10790-2025-TX,2024-10-01 18:42:42,Webcam,Peripherals,South,CUST-4197,3,26,Pending,Eve
+ORD-10791-2025-CA,2025-06-18 17:48:19,SSD Drive,Electronics,North,CUST-6678,5,52,Pending,Bob
+ORD-10792-2025-TX,2024-06-06 09:07:12,Mouse,Peripherals,West,CUST-1443,5,125,Shipped,David
+ORD-10793-2025-CA,2024-05-03 01:46:21,Laptop,Electronics,West,CUST-7876,1,1048,Shipped,David
+ORD-10794-2025-TX,2025-03-23 19:47:33,Router,Electronics,North,CUST-9732,2,472,Shipped,Bob
+ORD-10795-2025-TX,2024-05-08 07:32:03,Printer,Electronics,East,CUST-1725,1,1314,Shipped,Alice
+ORD-10796-2025-CA,2024-10-19 19:35:59,Gaming Headset,Gaming,South,CUST-8005,4,185,Shipped,Alice
+ORD-10797-2025-CA,2024-06-02 01:46:43,Gaming Headset,Gaming,North,CUST-5586,4,189,Shipped,David
+ORD-10798-2025-CA,2024-05-10 07:22:35,Webcam,Peripherals,South,CUST-1488,3,90,Pending,Frank
+ORD-10799-2025-AZ,2024-04-26 13:00:22,Router,Electronics,South,CUST-9622,2,566,Cancelled,David
+ORD-10800-2025-AZ,2024-10-25 02:59:50,Monitor,Electronics,North,CUST-4935,5,519,Pending,Bob
+ORD-10801-2025-TX,2024-07-14 08:14:45,Gaming Headset,Gaming,South,CUST-3466,3,101,Shipped,Charlie
+ORD-10802-2025-AZ,2024-05-15 00:11:26,Mouse,Peripherals,Central,CUST-1470,5,141,Pending,Eve
+ORD-10803-2025-CA,2024-02-13 22:06:40,Router,Electronics,West,CUST-9189,4,759,Shipped,Alice
+ORD-10804-2025-AZ,2024-03-28 14:06:54,Router,Electronics,West,CUST-7505,2,715,Shipped,Alice
+ORD-10805-2025-CA,2024-04-07 14:04:02,External HDD,Gaming,Central,CUST-9391,4,138,Shipped,Charlie
+ORD-10806-2025-TX,2025-02-08 19:26:53,External HDD,Accessories,North,CUST-4761,2,24,Shipped,Eve
+ORD-10807-2025-TX,2024-01-23 22:19:30,Router,Electronics,North,CUST-9344,5,960,Shipped,Alice
+ORD-10808-2025-CA,2024-06-06 10:26:37,Keyboard,Peripherals,West,CUST-8542,4,113,Shipped,David
+ORD-10809-2025-TX,2025-03-18 13:10:10,Mouse,Peripherals,West,CUST-1765,1,116,Cancelled,Alice
+ORD-10810-2025-AZ,2025-03-07 06:08:41,Gaming Headset,Gaming,Central,CUST-5301,5,180,Shipped,Eve
+ORD-10811-2025-TX,2024-06-01 07:37:46,Keyboard,Peripherals,Central,CUST-4404,2,142,Shipped,Frank
+ORD-10812-2025-AZ,2024-10-19 17:25:30,Laptop,Electronics,Central,CUST-1882,2,1310,Shipped,Bob
+ORD-10813-2025-CA,2024-04-07 01:15:34,SSD Drive,Gaming,Central,CUST-7875,4,132,Shipped,Charlie
+ORD-10814-2025-AZ,2025-01-03 12:02:24,Laptop,Electronics,East,CUST-9579,3,1355,Shipped,Charlie
+ORD-10815-2025-TX,2025-03-04 08:44:09,External HDD,Storage,West,CUST-2329,1,67,Cancelled,Charlie
+ORD-10816-2025-TX,2025-06-19 19:04:23,Router,Electronics,Central,CUST-3338,2,1017,Shipped,David
+ORD-10817-2025-AZ,2024-03-13 07:43:29,Gaming Headset,Gaming,Central,CUST-3574,2,136,Shipped,Alice
+ORD-10818-2025-AZ,2025-01-22 14:42:21,Webcam,Peripherals,West,CUST-8169,1,79,Shipped,Charlie
+ORD-10819-2025-TX,2025-01-07 17:33:27,External HDD,Networking,East,CUST-2417,1,70,Shipped,Charlie
+ORD-10820-2025-TX,2025-01-11 04:58:03,Printer,Electronics,South,CUST-6545,2,1353,Pending,Charlie
+ORD-10821-2025-CA,2024-03-01 20:22:35,Laptop,Electronics,South,CUST-8061,4,611,Cancelled,Charlie
+ORD-10822-2025-CA,2025-02-11 19:25:07,External HDD,Networking,Central,CUST-8759,3,278,Shipped,David
+ORD-10823-2025-AZ,2025-05-01 10:01:13,Mouse,Peripherals,Central,CUST-3007,3,61,Cancelled,Bob
+ORD-10824-2025-CA,2024-11-18 14:23:45,Monitor,Electronics,East,CUST-4806,1,1177,Shipped,Eve
+ORD-10825-2025-CA,2024-06-01 14:41:56,Laptop,Electronics,East,CUST-7021,3,615,Shipped,Bob
+ORD-10826-2025-AZ,2024-05-20 21:09:14,Monitor,Electronics,North,CUST-9775,3,753,Pending,Bob
+ORD-10827-2025-TX,2024-09-26 13:50:16,External HDD,Gaming,North,CUST-1300,2,287,Cancelled,Bob
+ORD-10828-2025-CA,2024-11-28 09:16:43,Monitor,Electronics,East,CUST-2864,4,1207,Shipped,David
+ORD-10829-2025-TX,2025-04-12 04:53:27,Printer,Electronics,Central,CUST-7305,5,1229,Shipped,Frank
+ORD-10830-2025-AZ,2025-02-20 04:27:54,SSD Drive,Accessories,Central,CUST-2727,3,35,Shipped,Bob
+ORD-10831-2025-CA,2024-11-09 02:10:09,Printer,Electronics,North,CUST-9715,4,467,Pending,Eve
+ORD-10832-2025-CA,2025-02-21 14:35:00,Mouse,Peripherals,Central,CUST-5931,5,110,Shipped,Charlie
+ORD-10833-2025-TX,2024-05-27 08:42:42,Monitor,Electronics,East,CUST-8663,5,1479,Shipped,Alice
+ORD-10834-2025-AZ,2025-03-15 07:40:25,Gaming Headset,Gaming,North,CUST-5000,2,216,Shipped,Frank
+ORD-10835-2025-CA,2024-02-13 09:57:15,Gaming Headset,Gaming,Central,CUST-9263,4,194,Cancelled,Eve
+ORD-10836-2025-TX,2024-05-01 01:06:05,Monitor,Electronics,East,CUST-3627,4,1263,Pending,Charlie
+ORD-10837-2025-CA,2025-05-26 01:25:29,Printer,Electronics,North,CUST-3716,2,785,Shipped,Charlie
+ORD-10838-2025-TX,2024-02-26 18:40:24,Monitor,Electronics,Central,CUST-8278,5,1337,Pending,Eve
+ORD-10839-2025-TX,2025-05-26 05:27:07,Laptop,Electronics,South,CUST-1534,3,413,Cancelled,Alice
+ORD-10840-2025-AZ,2025-04-19 07:18:55,Monitor,Electronics,North,CUST-3923,3,459,Shipped,Bob
+ORD-10841-2025-CA,2024-12-16 20:35:15,SSD Drive,Peripherals,South,CUST-9354,5,216,Cancelled,Bob
+ORD-10842-2025-AZ,2024-07-01 05:13:09,Keyboard,Peripherals,Central,CUST-2792,2,116,Shipped,Eve
+ORD-10843-2025-AZ,2024-10-19 17:28:15,External HDD,Storage,West,CUST-8762,1,24,Pending,Bob
+ORD-10844-2025-CA,2024-03-25 23:58:11,Webcam,Peripherals,East,CUST-8689,3,33,Shipped,Bob
+ORD-10845-2025-AZ,2024-10-14 09:55:03,Laptop,Electronics,East,CUST-4614,4,1265,Cancelled,Frank
+ORD-10846-2025-CA,2024-09-20 01:48:04,Router,Electronics,North,CUST-3609,1,1214,Shipped,Charlie
+ORD-10847-2025-AZ,2024-05-05 15:55:20,Mouse,Peripherals,North,CUST-3893,1,121,Shipped,Bob
+ORD-10848-2025-AZ,2024-07-06 06:47:30,Gaming Headset,Gaming,West,CUST-1242,4,108,Shipped,Charlie
+ORD-10849-2025-CA,2025-01-30 03:23:24,Router,Electronics,West,CUST-5169,4,612,Shipped,Bob
+ORD-10850-2025-AZ,2025-04-16 13:11:56,Gaming Headset,Gaming,East,CUST-5315,2,222,Cancelled,Frank
+ORD-10851-2025-AZ,2024-03-29 15:48:46,Gaming Headset,Gaming,West,CUST-1193,4,219,Shipped,Eve
+ORD-10852-2025-CA,2024-08-02 06:48:48,Keyboard,Peripherals,East,CUST-8664,3,85,Shipped,Eve
+ORD-10853-2025-CA,2024-08-05 20:40:57,Laptop,Electronics,South,CUST-5918,1,1341,Shipped,David
+ORD-10854-2025-TX,2025-03-18 19:46:23,Printer,Electronics,East,CUST-8360,3,1427,Shipped,Charlie
+ORD-10855-2025-CA,2024-12-08 23:08:32,Gaming Headset,Gaming,Central,CUST-7479,2,101,Shipped,David
+ORD-10856-2025-CA,2025-06-05 12:16:13,External HDD,Gaming,West,CUST-1973,4,239,Shipped,Bob
+ORD-10857-2025-CA,2025-02-20 09:47:43,Monitor,Electronics,West,CUST-5691,1,1012,Pending,Frank
+ORD-10858-2025-AZ,2025-01-03 16:11:10,Printer,Electronics,Central,CUST-6485,4,1251,Pending,Charlie
+ORD-10859-2025-CA,2024-08-05 02:50:41,SSD Drive,Electronics,East,CUST-3586,4,76,Shipped,Bob
+ORD-10860-2025-AZ,2025-03-31 10:19:09,SSD Drive,Peripherals,East,CUST-8767,4,72,Shipped,Eve
+ORD-10861-2025-TX,2025-03-31 13:36:43,Webcam,Peripherals,South,CUST-1255,2,116,Shipped,Bob
+ORD-10862-2025-AZ,2024-05-16 23:00:33,External HDD,Accessories,East,CUST-6272,2,229,Shipped,Frank
+ORD-10863-2025-TX,2025-05-11 03:30:07,Laptop,Electronics,Central,CUST-3217,5,825,Shipped,David
+ORD-10864-2025-TX,2024-01-21 18:06:33,Printer,Electronics,South,CUST-9953,1,1309,Shipped,Eve
+ORD-10865-2025-AZ,2024-12-09 01:56:55,Mouse,Peripherals,East,CUST-3238,1,86,Shipped,Eve
+ORD-10866-2025-CA,2024-05-01 08:31:32,Mouse,Peripherals,North,CUST-3161,2,65,Shipped,Eve
+ORD-10867-2025-TX,2024-03-25 14:04:26,SSD Drive,Accessories,East,CUST-9653,2,116,Shipped,David
+ORD-10868-2025-AZ,2025-04-29 06:01:27,Mouse,Peripherals,West,CUST-1015,4,132,Shipped,Charlie
+ORD-10869-2025-AZ,2024-12-23 19:36:40,Printer,Electronics,South,CUST-4663,1,569,Shipped,Eve
+ORD-10870-2025-TX,2025-02-14 12:49:44,Gaming Headset,Gaming,Central,CUST-5787,3,166,Shipped,David
+ORD-10871-2025-CA,2025-04-19 03:53:06,Printer,Electronics,Central,CUST-4310,1,1045,Shipped,Charlie
+ORD-10872-2025-TX,2025-01-02 14:35:23,External HDD,Networking,South,CUST-3396,1,257,Cancelled,Eve
+ORD-10873-2025-TX,2024-05-14 04:19:22,Router,Electronics,West,CUST-5219,4,1381,Shipped,Bob
+ORD-10874-2025-CA,2025-04-15 02:59:49,Mouse,Peripherals,West,CUST-4172,3,32,Shipped,David
+ORD-10875-2025-TX,2024-04-01 23:59:26,Printer,Electronics,West,CUST-6677,2,1005,Shipped,Frank
+ORD-10876-2025-AZ,2024-08-13 11:34:06,Printer,Electronics,North,CUST-8165,2,1290,Shipped,David
+ORD-10877-2025-TX,2024-03-20 08:04:53,Gaming Headset,Gaming,South,CUST-7405,2,80,Shipped,Charlie
+ORD-10878-2025-CA,2024-10-20 15:37:58,External HDD,Peripherals,East,CUST-4258,2,189,Shipped,Bob
+ORD-10879-2025-TX,2024-10-11 12:53:58,Mouse,Peripherals,East,CUST-9890,3,81,Pending,Bob
+ORD-10880-2025-TX,2024-04-10 16:06:30,Laptop,Electronics,South,CUST-4557,1,1364,Shipped,David
+ORD-10881-2025-TX,2024-07-07 13:46:11,Printer,Electronics,West,CUST-5123,5,1031,Shipped,David
+ORD-10882-2025-CA,2024-12-06 18:02:03,Mouse,Peripherals,Central,CUST-8901,2,84,Shipped,Charlie
+ORD-10883-2025-AZ,2025-01-12 17:16:41,Keyboard,Peripherals,Central,CUST-7587,5,116,Pending,Bob
+ORD-10884-2025-CA,2025-06-09 01:53:02,Monitor,Electronics,East,CUST-9336,2,656,Shipped,Charlie
+ORD-10885-2025-AZ,2024-05-26 04:40:18,Monitor,Electronics,North,CUST-7958,5,762,Shipped,Eve
+ORD-10886-2025-AZ,2024-11-30 22:49:38,Laptop,Electronics,East,CUST-9016,4,1044,Shipped,Frank
+ORD-10887-2025-TX,2024-10-24 12:23:31,Keyboard,Peripherals,Central,CUST-2643,4,53,Cancelled,Charlie
+ORD-10888-2025-AZ,2024-04-16 12:33:22,External HDD,Peripherals,South,CUST-6741,3,168,Cancelled,Eve
+ORD-10889-2025-AZ,2024-05-11 06:05:08,Monitor,Electronics,East,CUST-2185,5,760,Pending,David
+ORD-10890-2025-AZ,2025-02-25 05:34:23,Keyboard,Peripherals,South,CUST-8351,4,147,Shipped,Bob
+ORD-10891-2025-AZ,2024-09-15 15:29:27,Laptop,Electronics,North,CUST-4530,4,1358,Pending,David
+ORD-10892-2025-AZ,2025-01-20 08:41:51,Laptop,Electronics,West,CUST-6812,4,1172,Shipped,Charlie
+ORD-10893-2025-TX,2025-06-28 06:06:16,SSD Drive,Storage,East,CUST-5960,5,122,Shipped,Frank
+ORD-10894-2025-TX,2024-07-31 14:25:53,Laptop,Electronics,South,CUST-4899,5,592,Cancelled,Charlie
+ORD-10895-2025-CA,2025-01-15 09:27:12,Mouse,Peripherals,East,CUST-7466,3,85,Shipped,Eve
+ORD-10896-2025-CA,2025-01-01 10:18:03,Keyboard,Peripherals,Central,CUST-1218,5,72,Pending,Alice
+ORD-10897-2025-TX,2024-02-08 18:37:58,Keyboard,Peripherals,East,CUST-4498,5,28,Shipped,Charlie
+ORD-10898-2025-AZ,2024-09-28 19:53:12,SSD Drive,Accessories,East,CUST-3345,3,55,Pending,Eve
+ORD-10899-2025-AZ,2025-01-11 03:47:43,Keyboard,Peripherals,East,CUST-8657,3,141,Shipped,Charlie
+ORD-10900-2025-AZ,2025-05-08 11:10:42,SSD Drive,Accessories,Central,CUST-2869,5,186,Shipped,Frank
+ORD-10901-2025-TX,2024-02-21 03:27:04,External HDD,Peripherals,Central,CUST-2073,1,145,Pending,Charlie
+ORD-10902-2025-AZ,2024-10-01 00:59:24,Webcam,Peripherals,West,CUST-8056,5,45,Shipped,Bob
+ORD-10903-2025-AZ,2024-03-10 12:39:12,Keyboard,Peripherals,East,CUST-1549,3,51,Pending,Eve
+ORD-10904-2025-TX,2024-02-07 11:16:28,Laptop,Electronics,East,CUST-2108,5,1203,Shipped,Frank
+ORD-10905-2025-CA,2024-03-21 15:56:57,Gaming Headset,Gaming,Central,CUST-3769,2,146,Shipped,Bob
+ORD-10906-2025-CA,2024-04-20 08:28:10,Monitor,Electronics,South,CUST-6200,2,1265,Pending,Eve
+ORD-10907-2025-CA,2025-05-03 10:08:37,Printer,Electronics,West,CUST-5435,1,1165,Shipped,Frank
+ORD-10908-2025-CA,2025-01-22 17:45:47,Keyboard,Peripherals,West,CUST-6583,4,48,Shipped,Bob
+ORD-10909-2025-CA,2024-11-07 16:24:56,Router,Electronics,East,CUST-7717,3,1100,Cancelled,Charlie
+ORD-10910-2025-CA,2024-05-12 09:08:31,External HDD,Networking,Central,CUST-6143,5,242,Shipped,Alice
+ORD-10911-2025-CA,2024-09-26 07:04:19,Printer,Electronics,East,CUST-3892,4,621,Shipped,Bob
+ORD-10912-2025-TX,2024-05-06 17:48:28,Router,Electronics,North,CUST-4185,4,1121,Cancelled,Charlie
+ORD-10913-2025-TX,2024-06-17 04:54:08,Gaming Headset,Gaming,North,CUST-8909,2,101,Pending,Charlie
+ORD-10914-2025-CA,2024-12-11 21:00:50,Printer,Electronics,East,CUST-9830,2,798,Cancelled,David
+ORD-10915-2025-TX,2024-07-05 20:35:43,Keyboard,Peripherals,North,CUST-2264,2,115,Shipped,David
+ORD-10916-2025-CA,2025-05-14 02:22:13,Gaming Headset,Gaming,Central,CUST-8452,4,226,Pending,Charlie
+ORD-10917-2025-AZ,2024-07-21 03:26:18,Router,Electronics,Central,CUST-1122,4,994,Shipped,Eve
+ORD-10918-2025-CA,2024-04-23 12:57:30,Printer,Electronics,North,CUST-7678,2,1434,Shipped,David
+ORD-10919-2025-AZ,2024-07-01 19:55:38,Router,Electronics,North,CUST-1801,4,497,Cancelled,Charlie
+ORD-10920-2025-CA,2025-03-15 09:03:14,Printer,Electronics,Central,CUST-1811,4,1313,Shipped,Charlie
+ORD-10921-2025-CA,2024-07-18 16:51:38,SSD Drive,Networking,South,CUST-6134,4,24,Pending,Charlie
+ORD-10922-2025-TX,2025-05-28 19:09:17,Mouse,Peripherals,Central,CUST-9837,3,56,Shipped,Frank
+ORD-10923-2025-AZ,2024-12-16 20:22:36,Monitor,Electronics,West,CUST-6455,4,1306,Cancelled,David
+ORD-10924-2025-CA,2024-07-27 16:36:36,Router,Electronics,South,CUST-9885,1,763,Shipped,Charlie
+ORD-10925-2025-CA,2024-06-04 23:51:00,Laptop,Electronics,East,CUST-2291,3,430,Cancelled,Eve
+ORD-10926-2025-TX,2024-04-04 21:17:26,Laptop,Electronics,Central,CUST-6151,4,1317,Pending,Frank
+ORD-10927-2025-CA,2024-11-14 15:58:45,Monitor,Electronics,Central,CUST-8044,4,692,Shipped,Eve
+ORD-10928-2025-CA,2024-07-06 01:32:46,Printer,Electronics,Central,CUST-9816,1,783,Pending,David
+ORD-10929-2025-CA,2024-03-21 08:00:02,Mouse,Peripherals,South,CUST-2870,2,74,Cancelled,Frank
+ORD-10930-2025-TX,2024-09-16 20:17:38,Keyboard,Peripherals,Central,CUST-1303,1,64,Pending,Bob
+ORD-10931-2025-CA,2024-08-04 00:42:58,External HDD,Networking,East,CUST-9549,3,68,Cancelled,Eve
+ORD-10932-2025-AZ,2024-09-28 16:03:19,Gaming Headset,Gaming,West,CUST-8338,3,89,Pending,Bob
+ORD-10933-2025-TX,2024-09-08 04:29:10,Webcam,Peripherals,West,CUST-7880,1,59,Shipped,Alice
+ORD-10934-2025-TX,2024-03-05 00:14:33,SSD Drive,Networking,West,CUST-4312,4,84,Shipped,Bob
+ORD-10935-2025-TX,2024-08-08 04:41:01,Monitor,Electronics,South,CUST-9184,4,450,Cancelled,Eve
+ORD-10936-2025-CA,2025-06-18 04:09:12,Router,Electronics,North,CUST-2843,5,1037,Cancelled,Alice
+ORD-10937-2025-AZ,2025-04-21 09:12:07,Gaming Headset,Gaming,North,CUST-1004,3,233,Shipped,Eve
+ORD-10938-2025-AZ,2024-07-22 04:23:46,Monitor,Electronics,West,CUST-9104,4,1144,Cancelled,Eve
+ORD-10939-2025-TX,2024-11-04 14:57:19,Laptop,Electronics,Central,CUST-5603,2,943,Cancelled,Frank
+ORD-10940-2025-AZ,2024-11-29 21:41:18,SSD Drive,Storage,West,CUST-2416,3,189,Cancelled,David
+ORD-10941-2025-TX,2024-02-14 20:07:05,External HDD,Gaming,North,CUST-8602,1,228,Shipped,Charlie
+ORD-10942-2025-TX,2025-03-12 22:06:02,External HDD,Networking,West,CUST-3560,2,102,Shipped,Frank
+ORD-10943-2025-AZ,2025-05-28 21:16:25,Mouse,Peripherals,South,CUST-7585,5,25,Pending,Bob
+ORD-10944-2025-TX,2024-01-23 09:51:38,Printer,Electronics,West,CUST-2099,1,1214,Pending,Bob
+ORD-10945-2025-CA,2024-04-13 07:00:12,Printer,Electronics,South,CUST-7964,1,1024,Shipped,Eve
+ORD-10946-2025-TX,2024-09-23 14:04:20,Webcam,Peripherals,North,CUST-6615,3,93,Cancelled,Eve
+ORD-10947-2025-TX,2024-06-06 11:54:44,Gaming Headset,Gaming,East,CUST-1453,2,242,Cancelled,Frank
+ORD-10948-2025-TX,2025-05-15 16:37:15,Webcam,Peripherals,North,CUST-5433,2,92,Shipped,David
+ORD-10949-2025-AZ,2025-04-19 22:12:47,Printer,Electronics,Central,CUST-7622,1,548,Cancelled,Alice
+ORD-10950-2025-AZ,2024-06-29 03:07:00,External HDD,Accessories,South,CUST-6092,3,169,Shipped,Eve
+ORD-10951-2025-AZ,2024-08-02 08:52:18,Laptop,Electronics,East,CUST-4008,2,795,Shipped,Eve
+ORD-10952-2025-AZ,2025-02-05 08:32:29,SSD Drive,Accessories,North,CUST-4701,3,236,Shipped,David
+ORD-10953-2025-TX,2025-05-25 22:34:30,Monitor,Electronics,North,CUST-3902,4,1034,Shipped,Charlie
+ORD-10954-2025-AZ,2024-03-22 07:48:11,SSD Drive,Electronics,South,CUST-6716,2,31,Shipped,Bob
+ORD-10955-2025-AZ,2024-07-21 03:46:34,SSD Drive,Gaming,North,CUST-7095,2,118,Shipped,Frank
+ORD-10956-2025-AZ,2025-04-01 11:32:49,Monitor,Electronics,North,CUST-6916,3,431,Pending,Eve
+ORD-10957-2025-CA,2025-04-12 08:34:46,Gaming Headset,Gaming,West,CUST-9882,5,206,Cancelled,David
+ORD-10958-2025-TX,2025-03-22 16:20:47,Printer,Electronics,North,CUST-6760,4,458,Shipped,Alice
+ORD-10959-2025-AZ,2024-12-12 02:03:45,Router,Electronics,North,CUST-5277,3,974,Cancelled,David
+ORD-10960-2025-CA,2025-02-15 04:15:00,Laptop,Electronics,South,CUST-1999,5,423,Shipped,Charlie
+ORD-10961-2025-AZ,2024-09-02 06:26:13,Printer,Electronics,Central,CUST-5693,2,1435,Shipped,Eve
+ORD-10962-2025-TX,2024-12-07 12:52:17,Laptop,Electronics,North,CUST-3717,5,939,Shipped,David
+ORD-10963-2025-AZ,2024-06-13 03:58:59,Mouse,Peripherals,North,CUST-3191,2,63,Cancelled,Bob
+ORD-10964-2025-TX,2024-03-23 08:45:24,External HDD,Gaming,North,CUST-6821,3,181,Shipped,Charlie
+ORD-10965-2025-TX,2025-04-02 16:48:11,Webcam,Peripherals,East,CUST-1419,3,121,Pending,Frank
+ORD-10966-2025-AZ,2024-11-17 10:29:45,Keyboard,Peripherals,South,CUST-4238,3,147,Shipped,Alice
+ORD-10967-2025-TX,2025-05-17 08:31:16,Webcam,Peripherals,West,CUST-9424,3,119,Shipped,Charlie
+ORD-10968-2025-AZ,2024-01-10 23:54:29,Router,Electronics,East,CUST-3996,2,528,Cancelled,Eve
+ORD-10969-2025-TX,2025-02-04 17:56:09,Monitor,Electronics,East,CUST-2500,4,524,Shipped,Alice
+ORD-10970-2025-CA,2024-08-15 22:34:29,Gaming Headset,Gaming,North,CUST-9418,2,112,Cancelled,Bob
+ORD-10971-2025-CA,2024-05-04 23:27:26,Router,Electronics,West,CUST-5994,1,1499,Shipped,Eve
+ORD-10972-2025-AZ,2024-02-15 06:22:01,Laptop,Electronics,South,CUST-2917,2,435,Shipped,Eve
+ORD-10973-2025-CA,2025-01-19 21:33:10,Laptop,Electronics,East,CUST-1829,1,453,Pending,Frank
+ORD-10974-2025-TX,2024-11-02 03:39:23,SSD Drive,Accessories,West,CUST-1591,2,265,Pending,Frank
+ORD-10975-2025-TX,2024-01-25 06:18:32,Keyboard,Peripherals,Central,CUST-1084,3,35,Pending,Eve
+ORD-10976-2025-TX,2024-01-05 10:35:24,SSD Drive,Accessories,South,CUST-7596,1,154,Pending,Alice
+ORD-10977-2025-TX,2025-04-25 17:32:01,Gaming Headset,Gaming,South,CUST-6325,5,200,Pending,Eve
+ORD-10978-2025-CA,2025-02-08 23:01:38,Printer,Electronics,East,CUST-5846,5,953,Cancelled,Charlie
+ORD-10979-2025-AZ,2025-05-29 21:49:45,Gaming Headset,Gaming,Central,CUST-3473,2,250,Shipped,Charlie
+ORD-10980-2025-TX,2024-12-05 07:40:31,Laptop,Electronics,West,CUST-7165,2,402,Cancelled,Bob
+ORD-10981-2025-CA,2024-10-26 13:21:39,Mouse,Peripherals,East,CUST-9484,5,106,Pending,Charlie
+ORD-10982-2025-TX,2024-02-08 01:42:58,SSD Drive,Gaming,West,CUST-3875,4,213,Shipped,Bob
+ORD-10983-2025-CA,2024-12-17 23:52:26,Laptop,Electronics,West,CUST-1599,4,585,Shipped,David
+ORD-10984-2025-CA,2025-05-28 23:38:45,Keyboard,Peripherals,East,CUST-2074,5,24,Cancelled,Bob
+ORD-10985-2025-AZ,2024-12-30 07:17:55,Monitor,Electronics,West,CUST-2472,3,781,Shipped,Bob
+ORD-10986-2025-AZ,2024-06-20 19:14:33,Router,Electronics,Central,CUST-3923,3,1494,Pending,David
+ORD-10987-2025-TX,2025-03-18 09:48:38,Monitor,Electronics,Central,CUST-8920,2,875,Pending,David
+ORD-10988-2025-AZ,2024-11-18 21:20:02,Laptop,Electronics,North,CUST-3685,2,1239,Cancelled,Frank
+ORD-10989-2025-TX,2025-05-05 18:37:30,Mouse,Peripherals,West,CUST-9660,4,40,Shipped,David
+ORD-10990-2025-CA,2025-04-18 23:57:54,Gaming Headset,Gaming,Central,CUST-8316,5,116,Cancelled,Charlie
+ORD-10991-2025-CA,2024-08-15 06:53:36,External HDD,Peripherals,South,CUST-9171,5,119,Shipped,Eve
+ORD-10992-2025-TX,2024-05-25 17:10:36,Printer,Electronics,South,CUST-8511,1,761,Cancelled,Bob
+ORD-10993-2025-CA,2025-06-28 07:00:05,Printer,Electronics,South,CUST-4010,5,608,Pending,Alice
+ORD-10994-2025-CA,2024-08-16 19:22:03,Keyboard,Peripherals,South,CUST-6693,4,97,Shipped,David
+ORD-10995-2025-CA,2025-03-10 08:29:18,Laptop,Electronics,South,CUST-8001,1,848,Shipped,Charlie
+ORD-10996-2025-TX,2024-01-28 08:22:29,Monitor,Electronics,West,CUST-1679,4,443,Shipped,Charlie
+ORD-10997-2025-AZ,2025-02-20 16:05:44,SSD Drive,Gaming,Central,CUST-6881,3,193,Shipped,Alice
+ORD-10998-2025-TX,2024-09-24 19:13:31,Laptop,Electronics,East,CUST-7423,4,870,Pending,David
+ORD-10999-2025-CA,2024-05-02 14:15:35,Monitor,Electronics,East,CUST-6333,4,854,Cancelled,Alice
+ORD-11000-2025-CA,2025-05-11 10:38:10,Keyboard,Peripherals,East,CUST-3636,4,140,Cancelled,Eve
